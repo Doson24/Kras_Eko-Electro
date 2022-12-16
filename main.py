@@ -1,7 +1,11 @@
 import os
 
+import numpy as np
 import pandas as pd
 from datetime import date
+from geopy.geocoders import Nominatim
+import time
+
 pd.options.mode.chained_assignment = None
 
 
@@ -19,6 +23,8 @@ class House:
     def __init__(self, path, name):
         self.path = path
         self.name = name
+        #для отображения адреса надо брать из файла
+        # self.address = self.read_params()
 
         if len(self.read_tables()) == 4:
             self.entry1 = self.clear_data(self.read_tables()[0])
@@ -38,6 +44,11 @@ class House:
         df = pd.read_html(f'{self.path}/{self.name}', encoding='cp1251', decimal=',')
         # df = pd.read_excel(name)
         return list(df)
+
+    def read_params(self):
+        df = pd.read_table(f'{self.path}/{self.name}', encoding='cp1251', decimal=',')
+        address = df[df['Unnamed: 0'].str.startswith('   Адрес').fillna(False)]
+        return address
         """
     read_table:
         tb[tb['Unnamed: 0'].str.startswith('Время работы').fillna(False)]
@@ -54,6 +65,8 @@ class House:
 
         # Удаляю первые две строки - это название столбцов
         table.drop(index=[0, 1], inplace=True)
+        if np.NaN in table.columns:
+            table.drop(np.NaN, axis=1, inplace=True)
 
         table.index = table[table.columns[0]]
         table.drop(index=[ix for ix in table.index if len(ix) > 9], inplace=True)
@@ -70,10 +83,19 @@ class House:
         # При чтении использвоать decimal: str = "."  - не работает
         for column in table.columns:
             try:
-                table[column] = [i[0:2] + '.' + i[2:4] if isinstance(i, str) and len(i) == 4 else i for i in
-                                 table[column]]
-                table[column] = [i[0:1] + '.' + i[1:3] if isinstance(i, str) and len(i) == 3 else i for i in
-                                 table[column]]
+                data_column = []
+                for i in table[column]:
+                    if len(i) == 4:
+                        data_column.append(i[0:2] + '.' + i[2:4])
+
+                    elif len(i) == 3:
+                        data_column.append(i[0:1] + '.' + i[1:3])
+                    elif len(i) == 5:
+                        data_column.append(i[0:3] + '.' + i[3:5])
+                    else:
+                        data_column.append(i)
+
+                table[column] = data_column
                 table[column] = table[column].astype(float)
             except Exception as ex:
                 pass
@@ -89,20 +111,20 @@ class House:
         self.entry2 = pd.concat([self.entry2, table2])
 
         # Сортировка по индексу
-        # self.entry1.index = self.entry1.sort_index()
-        # self.entry2.index = self.entry2.sort_index()
+        self.entry1 = self.entry1.sort_index()
+        self.entry2 = self.entry2.sort_index()
 
         print('-'*100)
 
 
 def main():
     months = ['Сентябрь', 'Август']
-    work_dir = 'data'
-    start_dir = work_dir + '/Октябрь'
+    work_dir = 'data/'
+    start_dir = work_dir + 'Октябрь'
 
     files_names = search_xls(start_dir)[:100]
     db = []
-
+    error_read = 0
     # Поиск каждого дома по месяцам
     for file_name in files_names:
 
@@ -113,7 +135,7 @@ def main():
 
         except ImportError:
             print(f'{start_dir + "/" + file_name} Ошибка открытия: Возможно файл пустой')
-
+            error_read += 1
         for month in months:
             dir_search = f'data/{month}'
             if file_name in search_xls(dir_search):
@@ -124,13 +146,35 @@ def main():
                 except ImportError:
                     pass
                     print(f'{dir_search+"/"+file_name} Ошибка открытия: Возможно файл пустой')
+                    error_read += 1
+
         # print(a1.name)
         # print(a1.entry1)
 
-    return db
+    return db, error_read
+
+
+def uniq_homes():
+    uniq = []
+    months = ['Октябрь', 'Сентябрь', 'Август']
+    for month in months:
+        data = search_xls(f'data/{month}')
+        uniq = uniq + data
+    return list(set(uniq))
+
+
+def get_locate():
+    # [i.split() for i in address]
+
+    address = 'Железногорск, новый путь гагарина 4'
+    app = Nominatim(user_agent="tutorial")
+    location = app.geocode(address).raw
+    latitude = location["lat"]
+    longitude = location["lon"]
+    return latitude, longitude
 
 def test_clean(i):
-    table = pd.read_html("Восточная, 19.xls", encoding='cp1251', decimal=',')[i]
+    table = pd.read_html("Григорьева, 6  ФЛАГМАН.xls", encoding='cp1251', decimal=',')[i]
     columns = table.iloc[0] + '/' + table.iloc[1]
     table.columns = columns
 
@@ -152,10 +196,19 @@ def test_clean(i):
     # При чтении использвоать decimal: str = "."
     for column in table.columns:
         try:
-            table[column] = [i[0:2] + '.' + i[2:4] if isinstance(i, str) and len(i) == 4 else i for i in
-                             table[column]]
-            table[column] = [i[0:1] + '.' + i[1:3] if isinstance(i, str) and len(i) == 3 else i for i in
-                             table[column]]
+            data_column = []
+            for i in table[column]:
+                if len(i) == 4:
+                    data_column.append(i[0:2] + '.' + i[2:4])
+
+                elif len(i) == 3:
+                    data_column.append(i[0:1] + '.' + i[1:3])
+                elif len(i) == 5:
+                    data_column.append(i[0:3] + '.' + i[3:5])
+                else:
+                    data_column.append(i)
+
+            table[column] = data_column
             table[column] = table[column].astype(float)
         except Exception as ex:
             pass
@@ -168,8 +221,10 @@ def test_clean(i):
 
 
 if __name__ == '__main__':
-    houses = main()
-    # for house in houses:
-    #     print(house.name)
+    houses, error_read = main()
+    # address = {house.name[:-4]: i for i, house in enumerate(houses)}
+    # get_locate(address.keys())
 
-    # print(test_clean(1))
+    # print(get_locate())
+    # a = uniq_homes()
+    # print(test_clean(0))
