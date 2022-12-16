@@ -24,7 +24,10 @@ class House:
         self.path = path
         self.name = name
         #для отображения адреса надо брать из файла
-        # self.address = self.read_params()
+        self.address = self.read_params()
+        locate = self.get_locate()
+        self.longitude = locate[0]
+        self.latitude = locate[1]
 
         if len(self.read_tables()) == 4:
             self.entry1 = self.clear_data(self.read_tables()[0])
@@ -47,8 +50,22 @@ class House:
 
     def read_params(self):
         df = pd.read_table(f'{self.path}/{self.name}', encoding='cp1251', decimal=',')
-        address = df[df['Unnamed: 0'].str.startswith('   Адрес').fillna(False)]
-        return address
+        address_row = df[df['Unnamed: 0'].str.startswith('   Адрес').fillna(False)]
+        address = address_row.iloc[0][0].strip()[6:]
+        type = address.find('Тип')
+        address_clear = address[:type].strip()
+
+        if ' в 1' in address_clear or ' в 2' in address_clear:
+            address_clear = address_clear[:-4]
+
+        if 'Ленинградский' in address_clear:
+            address_clear = 'проспект ' + address_clear
+        elif 'новый путь' in address_clear:
+            return address_clear
+        else:
+            address_clear = 'ул ' + address_clear
+
+        return address_clear
         """
     read_table:
         tb[tb['Unnamed: 0'].str.startswith('Время работы').fillna(False)]
@@ -116,6 +133,16 @@ class House:
 
         print('-'*100)
 
+    def get_locate(self):
+        # [i.split() for i in address]
+        print(self.address)
+        address = f'ЗАТО Железногорск, {self.address}'
+        app = Nominatim(user_agent="tutorial")
+        location = app.geocode(address).raw
+        latitude = location["lat"]
+        longitude = location["lon"]
+        return float(latitude), float(longitude)
+
 
 def main():
     months = ['Сентябрь', 'Август']
@@ -133,7 +160,7 @@ def main():
             a1 = House(start_dir, file_name)
             db.append(a1)
 
-        except ImportError:
+        except (ImportError, KeyError, UnicodeDecodeError):
             print(f'{start_dir + "/" + file_name} Ошибка открытия: Возможно файл пустой')
             error_read += 1
         for month in months:
@@ -143,7 +170,7 @@ def main():
                     temp_house = House(dir_search, file_name)
                     a1.add_entry(temp_house.entry1, temp_house.entry2)
 
-                except ImportError:
+                except (ImportError, KeyError, UnicodeDecodeError):
                     pass
                     print(f'{dir_search+"/"+file_name} Ошибка открытия: Возможно файл пустой')
                     error_read += 1
@@ -162,16 +189,6 @@ def uniq_homes():
         uniq = uniq + data
     return list(set(uniq))
 
-
-def get_locate():
-    # [i.split() for i in address]
-
-    address = 'Железногорск, новый путь гагарина 4'
-    app = Nominatim(user_agent="tutorial")
-    location = app.geocode(address).raw
-    latitude = location["lat"]
-    longitude = location["lon"]
-    return latitude, longitude
 
 def test_clean(i):
     table = pd.read_html("Григорьева, 6  ФЛАГМАН.xls", encoding='cp1251', decimal=',')[i]
@@ -221,10 +238,10 @@ def test_clean(i):
 
 
 if __name__ == '__main__':
+    # '60 лет ВЛКСМ 12'
     houses, error_read = main()
-    # address = {house.name[:-4]: i for i, house in enumerate(houses)}
+    # address = {house.name: i for i, house in enumerate(houses)}
     # get_locate(address.keys())
 
-    # print(get_locate())
     # a = uniq_homes()
     # print(test_clean(0))
