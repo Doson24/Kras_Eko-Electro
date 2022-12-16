@@ -2,12 +2,14 @@ import pandas as pd
 import streamlit as st
 # from utils import chart, db
 from main import main, search_xls
+import pydeck as pdk
+
 
 @st.cache
 # @st.experimental_singleton
 def load_data():
         db, error_read = main()
-        address = {house.name[:-4]: i for i, house in enumerate(db)}
+        address = {house.address: i for i, house in enumerate(db)}
         return db, error_read, address
 
 def slice_data(data, start, end):
@@ -96,12 +98,79 @@ with st.sidebar:
 #         password = st.text_input('Password')
 #         st.form_submit_button('Login')
 
-locate = pd.DataFrame({'lat': [56.16933215, 56.245044449999995],
-                       'lon': [93.45940342605422, 93.538263485505211]},
-                      columns=['lat', 'lon'])
-st.dataframe(locate)
-st.map(locate)
 
-st.image('МЫВМЕСТЕ.jpg')
+# st.image('МЫВМЕСТЕ.jpg')
 
 # st.snow()
+
+def map(data, lat, lon, zoom):
+    DATA_URL = "https://raw.githubusercontent.com/ajduberstein/geo_datasets/master/biergartens.json"
+    ICON_URL = "https://upload.wikimedia.org/wikipedia/commons/c/c4/Projet_bi%C3%A8re_logo_v2.png"
+
+    icon_data = {
+        # Icon from Wikimedia, used the Creative Commons Attribution-Share Alike 3.0
+        # Unported, 2.5 Generic, 2.0 Generic and 1.0 Generic licenses
+        "url": ICON_URL,
+        "width": 242,
+        "height": 242,
+        "anchorY": 242,
+    }
+
+    # data = pd.read_json(DATA_URL)
+    data["icon_data"] = None
+    for i in data.index:
+        data["icon_data"][i] = icon_data
+    # data['text'] = [52, 53]
+    HexagonLayer = pdk.Layer(
+                            "HexagonLayer",
+                            data=data,
+                            get_position=["lon", "lat"],
+                            radius=100,
+                            elevation_scale=4,
+                            elevation_range=[0, 1000],
+                            pickable=True,
+                            extruded=True,)
+    icon_layer = pdk.Layer(
+        type="IconLayer",
+        data=data,
+        get_icon="icon_data",
+        get_size=4,
+        size_scale=15,
+        get_position=["lon", "lat"],
+        get_elevation='text',
+        pickable=True,)
+
+    st.write(
+        pdk.Deck(
+            map_style="mapbox://styles/mapbox/light-v9",
+            initial_view_state={
+                "latitude": lat,
+                "longitude": lon,
+                "zoom": zoom,
+                "pitch": 50,
+            },
+            layers=[icon_layer],
+            tooltip={'text': '{Name} {t1}'}
+        )
+    )
+
+    st.dataframe(data)
+
+
+lat = [house.longitude for house in data]
+lon = [house.latitude for house in data]
+name = [house.address for house in data]
+
+# t1 = [house.entry1.get("t1/°C")
+#       if house.entry1.get("t1/°C") and house.entry1.get("t1/°C").dtype == float
+#       else 99 for house in data]
+
+data_map = pd.DataFrame()
+data_map['lon'] = lon
+data_map['lat'] = lat
+data_map['Name'] = name
+# data_map['t1'] = t1
+
+# round(table1["t1/°C"].mean(), 2)
+
+map(data_map, 56.16933215, 93.45940342605422, 11)
