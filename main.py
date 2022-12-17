@@ -163,7 +163,7 @@ def main():
     for file_name in files_names:
         path = f"{start_dir}\\{file_name}"
         try:
-            print(path, file_name)
+            print(path)
             a1 = House(start_dir, file_name)
             db.append(a1)
         except (ImportError, KeyError, UnicodeDecodeError):
