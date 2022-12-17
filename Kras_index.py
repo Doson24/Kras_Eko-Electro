@@ -19,18 +19,18 @@ def slice_data(data, start, end):
 st.set_page_config(layout="wide", page_icon="📊", page_title="Красэко-электро",
         initial_sidebar_state="expanded")
 
-# data, error_read, address = load_data()
-data = pd.read_html(f'Восточная, 19.xls', encoding='cp1251', decimal=',')
+data, error_read, address = load_data()
+# data = pd.read_html(f'Восточная, 19.xls', encoding='cp1251', decimal=',')
 
 st.sidebar.subheader("Filter")
 st.write(data[0])
 
-"""
 
 select_address = st.sidebar.selectbox('Адрес:', options=address.keys())
 table1 = data[address[select_address]].entry1
 table2 = data[address[select_address]].entry2
 
+"""
 
 side_col1, side_col2 = st.sidebar.columns(2)
 start_date = side_col1.date_input('Дата начала', value=table1.index.min(),
