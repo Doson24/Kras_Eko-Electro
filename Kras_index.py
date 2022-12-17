@@ -59,7 +59,6 @@ columns = list(table1.columns)
 account_selections = st.sidebar.multiselect(
         "Select", options=columns, default=columns[:3])
 
-st.text(select_address)
 
 st.line_chart(table1, x=list(table1.index), y=account_selections)
 
