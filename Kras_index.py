@@ -24,7 +24,6 @@ data, error_read, address = load_data()
 # data = pd.read_html(f'Восточная, 19.xls', encoding='cp1251', decimal=',')
 
 st.sidebar.subheader("Filter")
-st.write(data[0])
 
 
 select_address = st.sidebar.selectbox('Адрес:', options=address.keys())
