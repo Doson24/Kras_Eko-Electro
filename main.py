@@ -156,7 +156,7 @@ def main():
     # start_dir = work_dir + 'push_Октябрь\\'
 
     start_dir = str(Path.cwd())
-    files_names = search_xls(start_dir)[:100]
+    files_names = search_xls(start_dir)[:10]
     db = []
     error_read = 0
     # Поиск каждого дома по месяцам
