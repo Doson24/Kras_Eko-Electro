@@ -30,7 +30,6 @@ select_address = st.sidebar.selectbox('Адрес:', options=address.keys())
 table1 = data[address[select_address]].entry1
 table2 = data[address[select_address]].entry2
 
-"""
 
 side_col1, side_col2 = st.sidebar.columns(2)
 start_date = side_col1.date_input('Дата начала', value=table1.index.min(),
@@ -179,4 +178,3 @@ data_map['Name'] = name
 
 map(data_map, 56.16933215, 93.45940342605422, 11)
 
-"""
