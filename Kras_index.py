@@ -3,6 +3,7 @@ import streamlit as st
 # from utils import chart, db
 from main import main, search_xls
 import pydeck as pdk
+from pathlib import Path
 
 
 @st.cache
@@ -73,7 +74,9 @@ st.write('')
 
 # Bar_chart
 st.markdown('### Диаграмма загруженных файлов')
-count_all_houses = len(search_xls('data/Октябрь'))
+start_dir = str(Path.cwd())
+
+count_all_houses = len(search_xls(start_dir))
 count_bd_houses = len(data)
 st.bar_chart(pd.DataFrame({
     'name': ['Загружено домов', 'Ошибка чтения', 'Всего домов'],
