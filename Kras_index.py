@@ -19,11 +19,11 @@ def slice_data(data, start, end):
 st.set_page_config(layout="wide", page_icon="📊", page_title="Красэко-электро",
         initial_sidebar_state="expanded")
 
-data, error_read, address = load_data()
-
+# data, error_read, address = load_data()
+data = pd.read_html(f'Восточная, 19.xls', encoding='cp1251', decimal=',')
 
 st.sidebar.subheader("Filter")
-st.write(data[address['ул Восточная, 19']].entry1)
+st.write(data[0])
 
 """
 
