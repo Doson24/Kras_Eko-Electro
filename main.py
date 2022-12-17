@@ -150,9 +150,9 @@ def save_succeed_filename(houses: list):
 
 
 def main():
-    months = ['Сентябрь', 'Август']
+    months = ['push_Сентябрь', 'push_Август']
     work_dir = 'data/'
-    start_dir = work_dir + 'Октябрь'
+    start_dir = work_dir + 'push_Октябрь'
 
     files_names = search_xls(start_dir)[:100]
     db = []
