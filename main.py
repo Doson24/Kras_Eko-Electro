@@ -5,6 +5,7 @@ import pandas as pd
 from datetime import date
 from geopy.geocoders import Nominatim
 import time
+from pathlib import Path
 
 pd.options.mode.chained_assignment = None
 
@@ -151,25 +152,26 @@ def save_succeed_filename(houses: list):
 
 def main():
     months = ['push_Сентябрь', 'push_Август']
-    work_dir = 'data/'
-    start_dir = work_dir + 'push_Октябрь'
+    work_dir = str(Path.cwd()) + "\\data\\"
+    start_dir = work_dir + 'push_Октябрь\\'
 
     files_names = search_xls(start_dir)[:100]
     db = []
     error_read = 0
     # Поиск каждого дома по месяцам
     for file_name in files_names:
-
+        path = f"{start_dir + file_name}"
         try:
-            print(f'{start_dir + "/" + file_name}')
+
+            print(path)
             a1 = House(start_dir, file_name)
             db.append(a1)
 
         except (ImportError, KeyError, UnicodeDecodeError):
-            print(f'{start_dir + "/" + file_name} Ошибка открытия: Возможно файл пустой')
+            print(f'{path} Ошибка открытия: Возможно файл пустой')
             error_read += 1
         for month in months:
-            dir_search = f'data/{month}'
+            dir_search = work_dir + month
             if file_name in search_xls(dir_search):
                 try:
                     temp_house = House(dir_search, file_name)
@@ -247,7 +249,10 @@ def test_clean(i):
 
 if __name__ == '__main__':
     # '60 лет ВЛКСМ 12'
-    houses, error_read = main()
+    # houses, error_read = main()
+    work_dir = str(Path.cwd()) + "\\data\\"
+
+    print(work_dir)
     # address = {house.name: i for i, house in enumerate(houses)}
     # get_locate(address.keys())
 
