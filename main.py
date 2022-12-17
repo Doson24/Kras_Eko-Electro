@@ -161,7 +161,7 @@ def main():
     error_read = 0
     # Поиск каждого дома по месяцам
     for file_name in files_names:
-        path = f"{start_dir}\\{file_name}"
+        path = f"{start_dir}/{file_name}"
         try:
             print(path)
             a1 = House(start_dir, file_name)
