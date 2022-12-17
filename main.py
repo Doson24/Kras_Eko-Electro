@@ -155,7 +155,7 @@ def main():
     # work_dir = str(Path.cwd()) + "\\data\\"
     # start_dir = work_dir + 'push_Октябрь\\'
 
-    start_dir = Path.cwd()
+    start_dir = str(Path.cwd())
     files_names = search_xls(start_dir)[:100]
     db = []
     error_read = 0
@@ -163,7 +163,7 @@ def main():
     for file_name in files_names:
         path = f"{start_dir + file_name}"
         try:
-            print(path)
+            print(path, file_name)
             a1 = House(start_dir, file_name)
             db.append(a1)
         except (ImportError, KeyError, UnicodeDecodeError):
