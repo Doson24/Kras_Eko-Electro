@@ -143,6 +143,11 @@ class House:
         longitude = location["lon"]
         return float(latitude), float(longitude)
 
+def save_succeed_filename(houses: list):
+    with open('loaded_filenames.txt', 'w') as f:
+        for house in houses:
+            f.write(house.name + '\n')
+
 
 def main():
     months = ['Сентябрь', 'Август']
@@ -177,6 +182,9 @@ def main():
 
         # print(a1.name)
         # print(a1.entry1)
+
+    # Сохранение имен файлов которые удалось прочитать
+    save_succeed_filename(db)
 
     return db, error_read
 
