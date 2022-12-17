@@ -1,0 +1,1098 @@
+						<HTML>
+						<HEAD>
+						<META http-equiv="Content-Type" content="text/html; charset=windows-1251">
+						<META NAME="GENERATOR" Content="Microsoft Visual Studio 6.0">
+						<TITLE>ОТЧЕТ</TITLE>
+						</HEAD>
+
+						<BODY>
+<PRE>                                 ОТЧЕТ
+                      о суточных параметрах теплоснабжения
+                              23/09/22г.-22/10/22г.
+   Абонент:________________                   Договор N:_________________
+   Адрес:мира 3                               Тип расходомера:___________
+   Тепловычислитель ВКТ-7 сет.N  078           Пределы измерений:
+   Договорные расходы:                        G под max =    2.00 м3/ч  G под min =    1.00 м3/ч
+   М сет.воды=______т.сут Мгвс=______ т.сут   G обр max =    2.00 м3/ч  G обр min =    1.00 м3/ч
+   Тхв=   5.00°C
+
+   Заводской номер 00259916        ВВОД 1    СХЕМА ПОДКЛЮЧЕНИЯ 3   БД 1   ФТ=1   Т3=0   КС=0xE1B7   ПО 2.7</PRE>
+<TABLE  cellSpacing=0 cellPadding=3 border=1>
+<TR align=center valign=middle>
+	<TD rowspan = 2><B>
+		Дата
+	</B></TD>
+	<TD><B>
+		t1
+	</B></TD>
+	<TD><B>
+		t2
+	</B></TD>
+	<TD><B>
+		dt
+	</B></TD>
+	<TD><B>
+		V1
+	</B></TD>
+	<TD><B>
+		M1
+	</B></TD>
+	<TD><B>
+		V2
+	</B></TD>
+	<TD><B>
+		M2
+	</B></TD>
+	<TD><B>
+		Mг
+	</B></TD>
+	<TD><B>
+		P1
+	</B></TD>
+	<TD><B>
+		P2
+	</B></TD>
+	<TD><B>
+		Qо
+	</B></TD>
+	<TD><B>
+		Qг
+	</B></TD>
+	<TD><B>
+		BНP
+	</B></TD>
+	<TD><B>
+		BOC
+	</B></TD>
+	<TD><B>
+		НС
+	</B></TD>
+</TR>
+<TR align=center valign=middle>
+	<TD><B>
+		°C
+	</B></TD>
+	<TD><B>
+		°C
+	</B></TD>
+	<TD><B>
+		°C
+	</B></TD>
+	<TD><B>
+		м3
+	</B></TD>
+	<TD><B>
+		т
+	</B></TD>
+	<TD><B>
+		м3
+	</B></TD>
+	<TD><B>
+		т
+	</B></TD>
+	<TD><B>
+		т
+	</B></TD>
+	<TD><B>
+		кг/см2
+	</B></TD>
+	<TD><B>
+		кг/см2
+	</B></TD>
+	<TD><B>
+		Гкал
+	</B></TD>
+	<TD><B>
+		Гкал
+	</B></TD>
+	<TD><B>
+		ч
+	</B></TD>
+	<TD><B>
+		ч
+	</B></TD>
+	<TD><B>
+		&nbsp; 
+	</B></TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>23/09/22</TD>
+    <TD>61,28</TD>
+    <TD>54,10</TD>
+    <TD>7,18</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>4,21</TD>
+    <TD>4,06</TD>
+    <TD>0,000</TD>
+    <TD>0,000</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>24/09/22</TD>
+    <TD>58,93</TD>
+    <TD>52,24</TD>
+    <TD>6,69</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>4,22</TD>
+    <TD>4,07</TD>
+    <TD>0,000</TD>
+    <TD>0,000</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>25/09/22</TD>
+    <TD>59,25</TD>
+    <TD>52,08</TD>
+    <TD>7,17</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>4,20</TD>
+    <TD>4,07</TD>
+    <TD>0,000</TD>
+    <TD>0,000</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>26/09/22</TD>
+    <TD>58,73</TD>
+    <TD>51,46</TD>
+    <TD>7,27</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>4,21</TD>
+    <TD>4,08</TD>
+    <TD>0,000</TD>
+    <TD>0,000</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>27/09/22</TD>
+    <TD>58,95</TD>
+    <TD>51,49</TD>
+    <TD>7,46</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>4,24</TD>
+    <TD>4,11</TD>
+    <TD>0,000</TD>
+    <TD>0,000</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>28/09/22</TD>
+    <TD>58,04</TD>
+    <TD>51,28</TD>
+    <TD>6,76</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>4,30</TD>
+    <TD>4,16</TD>
+    <TD>0,000</TD>
+    <TD>0,000</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>29/09/22</TD>
+    <TD>58,74</TD>
+    <TD>51,78</TD>
+    <TD>6,96</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>4,29</TD>
+    <TD>4,15</TD>
+    <TD>0,000</TD>
+    <TD>0,000</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>30/09/22</TD>
+    <TD>58,45</TD>
+    <TD>50,36</TD>
+    <TD>8,09</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>4,27</TD>
+    <TD>4,15</TD>
+    <TD>0,000</TD>
+    <TD>0,000</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>01/10/22</TD>
+    <TD>58,43</TD>
+    <TD>49,01</TD>
+    <TD>9,42</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>4,24</TD>
+    <TD>4,15</TD>
+    <TD>0,000</TD>
+    <TD>0,000</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>02/10/22</TD>
+    <TD>58,27</TD>
+    <TD>48,86</TD>
+    <TD>9,41</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>4,24</TD>
+    <TD>4,14</TD>
+    <TD>0,000</TD>
+    <TD>0,000</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>03/10/22</TD>
+    <TD>58,18</TD>
+    <TD>48,76</TD>
+    <TD>9,42</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>4,23</TD>
+    <TD>4,15</TD>
+    <TD>0,000</TD>
+    <TD>0,000</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>04/10/22</TD>
+    <TD>58,21</TD>
+    <TD>48,60</TD>
+    <TD>9,61</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>4,22</TD>
+    <TD>4,14</TD>
+    <TD>0,000</TD>
+    <TD>0,000</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>05/10/22</TD>
+    <TD>58,46</TD>
+    <TD>48,94</TD>
+    <TD>9,52</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>4,24</TD>
+    <TD>4,16</TD>
+    <TD>0,000</TD>
+    <TD>0,000</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>06/10/22</TD>
+    <TD>58,59</TD>
+    <TD>49,23</TD>
+    <TD>9,36</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>4,25</TD>
+    <TD>4,16</TD>
+    <TD>0,000</TD>
+    <TD>0,000</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>07/10/22</TD>
+    <TD>58,57</TD>
+    <TD>49,18</TD>
+    <TD>9,39</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>4,25</TD>
+    <TD>4,16</TD>
+    <TD>0,000</TD>
+    <TD>0,000</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>08/10/22</TD>
+    <TD>58,54</TD>
+    <TD>49,28</TD>
+    <TD>9,26</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>4,26</TD>
+    <TD>4,16</TD>
+    <TD>0,000</TD>
+    <TD>0,000</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>09/10/22</TD>
+    <TD>58,33</TD>
+    <TD>49,51</TD>
+    <TD>8,82</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>4,26</TD>
+    <TD>4,17</TD>
+    <TD>0,000</TD>
+    <TD>0,000</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>10/10/22</TD>
+    <TD>58,54</TD>
+    <TD>49,91</TD>
+    <TD>8,63</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>4,26</TD>
+    <TD>4,17</TD>
+    <TD>0,000</TD>
+    <TD>0,000</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>11/10/22</TD>
+    <TD>58,62</TD>
+    <TD>49,83</TD>
+    <TD>8,79</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>4,26</TD>
+    <TD>4,17</TD>
+    <TD>0,000</TD>
+    <TD>0,000</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>12/10/22</TD>
+    <TD>58,87</TD>
+    <TD>50,01</TD>
+    <TD>8,86</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>4,26</TD>
+    <TD>4,17</TD>
+    <TD>0,000</TD>
+    <TD>0,000</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>13/10/22</TD>
+    <TD>58,41</TD>
+    <TD>49,47</TD>
+    <TD>8,94</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>4,26</TD>
+    <TD>4,17</TD>
+    <TD>0,000</TD>
+    <TD>0,000</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>14/10/22</TD>
+    <TD>58,71</TD>
+    <TD>49,57</TD>
+    <TD>9,14</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>4,26</TD>
+    <TD>4,17</TD>
+    <TD>0,000</TD>
+    <TD>0,000</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>15/10/22</TD>
+    <TD>58,87</TD>
+    <TD>49,47</TD>
+    <TD>9,40</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>4,26</TD>
+    <TD>4,17</TD>
+    <TD>0,000</TD>
+    <TD>0,000</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>16/10/22</TD>
+    <TD>58,66</TD>
+    <TD>49,43</TD>
+    <TD>9,23</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>4,26</TD>
+    <TD>4,17</TD>
+    <TD>0,000</TD>
+    <TD>0,000</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>17/10/22</TD>
+    <TD>58,73</TD>
+    <TD>49,68</TD>
+    <TD>9,05</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>4,27</TD>
+    <TD>4,17</TD>
+    <TD>0,000</TD>
+    <TD>0,000</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>18/10/22</TD>
+    <TD>58,68</TD>
+    <TD>49,82</TD>
+    <TD>8,86</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>4,27</TD>
+    <TD>4,17</TD>
+    <TD>0,000</TD>
+    <TD>0,000</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>19/10/22</TD>
+    <TD>58,90</TD>
+    <TD>49,79</TD>
+    <TD>9,11</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>4,26</TD>
+    <TD>4,17</TD>
+    <TD>0,000</TD>
+    <TD>0,000</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>20/10/22</TD>
+    <TD>58,82</TD>
+    <TD>49,63</TD>
+    <TD>9,19</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>4,26</TD>
+    <TD>4,17</TD>
+    <TD>0,000</TD>
+    <TD>0,000</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>21/10/22</TD>
+    <TD>58,67</TD>
+    <TD>49,42</TD>
+    <TD>9,25</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>4,26</TD>
+    <TD>4,17</TD>
+    <TD>0,000</TD>
+    <TD>0,000</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>22/10/22</TD>
+    <TD>58,69</TD>
+    <TD>49,52</TD>
+    <TD>9,17</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>0,00</TD>
+    <TD>4,25</TD>
+    <TD>4,16</TD>
+    <TD>0,000</TD>
+    <TD>0,000</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR align=center valign=middle>
+<TD><B>Итого:</B></TD><TD><B>&nbsp;</B></TD><TD><B>&nbsp;</B></TD><TD><B>&nbsp;</B></TD><TD><B>0,00</B></TD><TD><B>0,00</B></TD><TD><B>0,00</B></TD><TD><B>0,00</B></TD><TD><B>0,00</B></TD><TD><B>&nbsp;</B></TD><TD><B>&nbsp;</B></TD><TD><B>0,000</B></TD><TD><B>0,000</B></TD><TD><B>720</B></TD><TD><B>0</B></TD><TD><B>&nbsp;</B></TD>
+</TR>
+<TR align=center valign=middle>
+<TD><B>
+Средние:</B></TD><TD><B>58,70</B></TD><TD><B>50,05</B></TD><TD><B>8,64</B></TD><TD><B>&nbsp;</B></TD><TD><B>&nbsp;</B></TD><TD><B>&nbsp;</B></TD><TD><B>&nbsp;</B></TD><TD><B>&nbsp;</B></TD><TD><B>4,25</B></TD><TD><B>4,14</B></TD><TD><B>&nbsp;</B></TD><TD><B>&nbsp;</B></TD><TD><B>&nbsp;</B></TD><TD><B>&nbsp;</B></TD><TD><B>&nbsp;</B></TD>
+</TR>
+</TABLE>
+
+<PRE>
+________________________________________________________________________________________________________________
+
+Период нормальной работы 720ч
+Период отсутств.счета тепл.энергии 0ч
+Время работы прибора после сброса 29929ч
+
+   Представитель абонента          Представитель теплоснабж.организации
+
+
+
+</PRE>
+<PRE>                                 ОТЧЕТ
+                      о суточных параметрах теплоснабжения
+                              23/09/22г.-22/10/22г.
+   Абонент:________________                   Договор N:_________________
+   Адрес:мира 3                               Тип расходомера:___________
+   Тепловычислитель ВКТ-7 сет.N  078           Пределы измерений:
+   Договорные расходы:                        G под max =    5.00 м3/ч  G под min =    0.00 м3/ч
+   М сет.воды=______т.сут Мгвс=______ т.сут   G обр max =    2.00 м3/ч  G обр min =    1.00 м3/ч
+   Тхв=   5.00°C
+
+   Заводской номер 00259916        ВВОД 2    СХЕМА ПОДКЛЮЧЕНИЯ 6   БД 1   ФТ=4   Т3=0   КС=0xE1B7   ПО 2.7</PRE>
+<TABLE  cellSpacing=0 cellPadding=3 border=1>
+<TR align=center valign=middle>
+	<TD rowspan = 2><B>
+		Дата
+	</B></TD>
+	<TD><B>
+		t1
+	</B></TD>
+	<TD><B>
+		V1
+	</B></TD>
+	<TD><B>
+		M1
+	</B></TD>
+	<TD><B>
+		P1
+	</B></TD>
+	<TD><B>
+		Qо
+	</B></TD>
+	<TD><B>
+		BНP
+	</B></TD>
+	<TD><B>
+		BOC
+	</B></TD>
+	<TD><B>
+		НС
+	</B></TD>
+</TR>
+<TR align=center valign=middle>
+	<TD><B>
+		°C
+	</B></TD>
+	<TD><B>
+		м3
+	</B></TD>
+	<TD><B>
+		т
+	</B></TD>
+	<TD><B>
+		кг/см2
+	</B></TD>
+	<TD><B>
+		Гкал
+	</B></TD>
+	<TD><B>
+		ч
+	</B></TD>
+	<TD><B>
+		ч
+	</B></TD>
+	<TD><B>
+		&nbsp; 
+	</B></TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>23/09/22</TD>
+    <TD>58,18</TD>
+    <TD>0,272</TD>
+    <TD>0,271</TD>
+    <TD>5,22</TD>
+    <TD>0,0141</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>*</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>24/09/22</TD>
+    <TD>56,71</TD>
+    <TD>0,333</TD>
+    <TD>0,330</TD>
+    <TD>5,20</TD>
+    <TD>0,0170</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>*</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>25/09/22</TD>
+    <TD>57,81</TD>
+    <TD>0,377</TD>
+    <TD>0,373</TD>
+    <TD>5,20</TD>
+    <TD>0,0198</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>*</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>26/09/22</TD>
+    <TD>57,07</TD>
+    <TD>0,446</TD>
+    <TD>0,441</TD>
+    <TD>5,20</TD>
+    <TD>0,0230</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>*</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>27/09/22</TD>
+    <TD>57,69</TD>
+    <TD>0,571</TD>
+    <TD>0,561</TD>
+    <TD>5,27</TD>
+    <TD>0,0292</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>*</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>28/09/22</TD>
+    <TD>57,02</TD>
+    <TD>0,774</TD>
+    <TD>0,761</TD>
+    <TD>5,42</TD>
+    <TD>0,0393</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>*</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>29/09/22</TD>
+    <TD>56,69</TD>
+    <TD>0,296</TD>
+    <TD>0,293</TD>
+    <TD>5,39</TD>
+    <TD>0,0152</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>*</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>30/09/22</TD>
+    <TD>55,54</TD>
+    <TD>0,278</TD>
+    <TD>0,276</TD>
+    <TD>5,36</TD>
+    <TD>0,0142</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>*</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>01/10/22</TD>
+    <TD>56,70</TD>
+    <TD>0,381</TD>
+    <TD>0,376</TD>
+    <TD>5,32</TD>
+    <TD>0,0194</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>*</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>02/10/22</TD>
+    <TD>57,09</TD>
+    <TD>0,573</TD>
+    <TD>0,564</TD>
+    <TD>5,30</TD>
+    <TD>0,0294</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>*</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>03/10/22</TD>
+    <TD>56,66</TD>
+    <TD>0,501</TD>
+    <TD>0,493</TD>
+    <TD>5,27</TD>
+    <TD>0,0254</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>*</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>04/10/22</TD>
+    <TD>56,78</TD>
+    <TD>0,457</TD>
+    <TD>0,452</TD>
+    <TD>5,25</TD>
+    <TD>0,0235</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>*</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>05/10/22</TD>
+    <TD>55,73</TD>
+    <TD>0,376</TD>
+    <TD>0,373</TD>
+    <TD>5,30</TD>
+    <TD>0,0189</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>*</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>06/10/22</TD>
+    <TD>56,42</TD>
+    <TD>0,333</TD>
+    <TD>0,330</TD>
+    <TD>5,32</TD>
+    <TD>0,0169</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>*</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>07/10/22</TD>
+    <TD>56,30</TD>
+    <TD>0,440</TD>
+    <TD>0,436</TD>
+    <TD>5,31</TD>
+    <TD>0,0222</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>*</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>08/10/22</TD>
+    <TD>56,50</TD>
+    <TD>0,366</TD>
+    <TD>0,361</TD>
+    <TD>5,31</TD>
+    <TD>0,0185</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>*</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>09/10/22</TD>
+    <TD>55,70</TD>
+    <TD>0,319</TD>
+    <TD>0,315</TD>
+    <TD>5,30</TD>
+    <TD>0,0159</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>*</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>10/10/22</TD>
+    <TD>55,77</TD>
+    <TD>0,338</TD>
+    <TD>0,334</TD>
+    <TD>5,31</TD>
+    <TD>0,0170</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>*</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>11/10/22</TD>
+    <TD>55,76</TD>
+    <TD>0,314</TD>
+    <TD>0,311</TD>
+    <TD>5,31</TD>
+    <TD>0,0157</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>*</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>12/10/22</TD>
+    <TD>58,25</TD>
+    <TD>0,704</TD>
+    <TD>0,696</TD>
+    <TD>5,31</TD>
+    <TD>0,0370</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>*</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>13/10/22</TD>
+    <TD>54,87</TD>
+    <TD>0,242</TD>
+    <TD>0,241</TD>
+    <TD>5,31</TD>
+    <TD>0,0119</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>*</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>14/10/22</TD>
+    <TD>54,95</TD>
+    <TD>0,207</TD>
+    <TD>0,206</TD>
+    <TD>5,31</TD>
+    <TD>0,0102</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>*</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>15/10/22</TD>
+    <TD>58,12</TD>
+    <TD>0,534</TD>
+    <TD>0,528</TD>
+    <TD>5,31</TD>
+    <TD>0,0281</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>*</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>16/10/22</TD>
+    <TD>56,43</TD>
+    <TD>0,382</TD>
+    <TD>0,380</TD>
+    <TD>5,32</TD>
+    <TD>0,0195</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>*</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>17/10/22</TD>
+    <TD>56,57</TD>
+    <TD>0,296</TD>
+    <TD>0,292</TD>
+    <TD>5,33</TD>
+    <TD>0,0150</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>*</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>18/10/22</TD>
+    <TD>57,11</TD>
+    <TD>0,389</TD>
+    <TD>0,385</TD>
+    <TD>5,33</TD>
+    <TD>0,0202</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>*</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>19/10/22</TD>
+    <TD>56,52</TD>
+    <TD>0,249</TD>
+    <TD>0,246</TD>
+    <TD>5,30</TD>
+    <TD>0,0128</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>*</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>20/10/22</TD>
+    <TD>57,11</TD>
+    <TD>0,426</TD>
+    <TD>0,423</TD>
+    <TD>5,29</TD>
+    <TD>0,0219</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>*</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>21/10/22</TD>
+    <TD>55,15</TD>
+    <TD>0,205</TD>
+    <TD>0,204</TD>
+    <TD>5,28</TD>
+    <TD>0,0102</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>*</TD>
+</TR>
+<TR align=center valign=middle>
+    <TD>22/10/22</TD>
+    <TD>57,13</TD>
+    <TD>0,248</TD>
+    <TD>0,244</TD>
+    <TD>5,27</TD>
+    <TD>0,0127</TD>
+    <TD>24</TD>
+    <TD>0</TD>
+    <TD>*</TD>
+</TR>
+<TR align=center valign=middle>
+<TD><B>Итого:</B></TD><TD><B>&nbsp;</B></TD><TD><B>11,627</B></TD><TD><B>11,496</B></TD><TD><B>&nbsp;</B></TD><TD><B>0,5941</B></TD><TD><B>720</B></TD><TD><B>0</B></TD><TD><B>&nbsp;</B></TD>
+</TR>
+<TR align=center valign=middle>
+<TD><B>
+Средние:</B></TD><TD><B>56,61</B></TD><TD><B>&nbsp;</B></TD><TD><B>&nbsp;</B></TD><TD><B>5,29</B></TD><TD><B>&nbsp;</B></TD><TD><B>&nbsp;</B></TD><TD><B>&nbsp;</B></TD><TD><B>&nbsp;</B></TD>
+</TR>
+</TABLE>
+
+<PRE>
+____________________________________________________________
+
+Период нормальной работы 720ч
+Период отсутств.счета тепл.энергии 0ч
+Время работы прибора после сброса 29929ч
+
+   Представитель абонента          Представитель теплоснабж.организации
+
+
+
+</PRE>
+</BODY>
+</HTML>
