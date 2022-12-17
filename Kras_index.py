@@ -73,9 +73,9 @@ st.markdown('### Диаграмма загруженных файлов')
 count_all_houses = len(search_xls('data/Октябрь'))
 count_bd_houses = len(data)
 st.bar_chart(pd.DataFrame({
-    'name': ['Загружено', 'Ошибка чтения', 'Всего'],
-    'Количество файлов': [count_bd_houses, error_read, count_all_houses]
-}), x='name', y='Количество файлов')
+    'name': ['Загружено домов', 'Ошибка чтения', 'Всего домов'],
+    'Количество': [count_bd_houses, error_read, count_all_houses]
+}), x='name', y='Количество')
 
 
 
