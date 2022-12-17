@@ -45,12 +45,14 @@ class House:
 
     def read_tables(self):
         # name = '98лесная4.xls'
-        df = pd.read_html(f'{self.path}/{self.name}', encoding='cp1251', decimal=',')
+        # df = pd.read_html(f'{self.path}/{self.name}', encoding='cp1251', decimal=',')
+        df = pd.read_html(f'{self.name}', encoding='cp1251', decimal=',')
         # df = pd.read_excel(name)
         return list(df)
 
     def read_params(self):
-        df = pd.read_table(f'{self.path}/{self.name}', encoding='cp1251', decimal=',')
+        # df = pd.read_table(f'{self.path}/{self.name}', encoding='cp1251', decimal=',')
+        df = pd.read_table(f'{self.name}', encoding='cp1251', decimal=',')
         address_row = df[df['Unnamed: 0'].str.startswith('   Адрес').fillna(False)]
         address = address_row.iloc[0][0].strip()[6:]
         type = address.find('Тип')
