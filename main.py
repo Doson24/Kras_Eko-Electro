@@ -26,9 +26,9 @@ class House:
         self.name = name
         #для отображения адреса надо брать из файла
         self.address = self.read_params()
-        locate = self.get_locate()
-        self.longitude = locate[0]
-        self.latitude = locate[1]
+        # locate = self.get_locate()
+        # self.longitude = locate[0]
+        # self.latitude = locate[1]
 
         if len(self.read_tables()) == 4:
             self.entry1 = self.clear_data(self.read_tables()[0])
@@ -45,14 +45,16 @@ class House:
 
     def read_tables(self):
         # name = '98лесная4.xls'
-        # df = pd.read_html(f'{self.path}/{self.name}', encoding='cp1251', decimal=',')
-        df = pd.read_html(f'{self.name}', encoding='cp1251', decimal=',')
+        df = pd.read_html(f'{self.path}/{self.name}', encoding='cp1251', decimal=',')
+        # Для main_deploy()
+        # df = pd.read_html(f'{self.name}', encoding='cp1251', decimal=',')
         # df = pd.read_excel(name)
         return list(df)
 
     def read_params(self):
-        # df = pd.read_table(f'{self.path}/{self.name}', encoding='cp1251', decimal=',')
-        df = pd.read_table(f'{self.name}', encoding='cp1251', decimal=',')
+        df = pd.read_table(f'{self.path}/{self.name}', encoding='cp1251', decimal=',')
+        #Для main_deploy()
+        # df = pd.read_table(f'{self.name}', encoding='cp1251', decimal=',')
         address_row = df[df['Unnamed: 0'].str.startswith('   Адрес').fillna(False)]
         address = address_row.iloc[0][0].strip()[6:]
         type = address.find('Тип')
@@ -61,13 +63,17 @@ class House:
         if ' в 1' in address_clear or ' в 2' in address_clear:
             address_clear = address_clear[:-4]
 
-        if 'Ленинградский' in address_clear:
+        if 'Ленинградский' in address_clear or 'Курчатова' in address_clear:
             address_clear = 'проспект ' + address_clear
         elif 'новый путь' in address_clear:
             return address_clear
+        elif 'Поселковый' in address_clear:
+            address_clear = 'проезд ' + address_clear
+        elif "проезд" in address_clear or 'пр,' in address_clear:
+            return address_clear
         else:
             address_clear = 'ул ' + address_clear
-
+            # return address_clear
         return address_clear
         """
     read_table:
@@ -134,7 +140,7 @@ class House:
         self.entry1 = self.entry1.sort_index()
         self.entry2 = self.entry2.sort_index()
 
-        print('-'*100)
+        print('[+] add')
 
     def get_locate(self):
         # [i.split() for i in address]
@@ -153,6 +159,47 @@ def save_succeed_filename(houses: list):
 
 
 def main():
+    months = ['Сентябрь', 'Август']
+    work_dir = str(Path.cwd()) + "\\data\\"
+    start_dir = work_dir + 'Октябрь\\'
+
+    # start_dir = str(Path.cwd())
+    files_names = search_xls(start_dir)[:]
+    db = []
+    error_read = 0
+    # Поиск каждого дома по месяцам
+    for file_name in files_names:
+        path = f"{start_dir}{file_name}"
+        try:
+            print(path)
+            a1 = House(start_dir, file_name)
+            db.append(a1)
+        except (ImportError, KeyError, UnicodeDecodeError):
+            print(f'{path} Ошибка открытия: Возможно файл пустой')
+            error_read += 1
+
+        for month in months:
+            dir_search = work_dir + month + '\\'
+            if file_name in search_xls(dir_search):
+                try:
+                    temp_house = House(dir_search, file_name)
+                    a1.add_entry(temp_house.entry1, temp_house.entry2)
+
+                except (ImportError, KeyError, UnicodeDecodeError):
+                    pass
+                    print(f'{dir_search+file_name} Ошибка открытия: Возможно файл пустой')
+                    error_read += 1
+
+        # print(a1.name)
+        # print(a1.entry1)
+
+    # Сохранение имен файлов которые удалось прочитать
+    save_succeed_filename(db)
+
+    return db, error_read
+
+
+def main_deploy():
     # months = ['push_Сентябрь', 'push_Август']
     # work_dir = str(Path.cwd()) + "\\data\\"
     # start_dir = work_dir + 'push_Октябрь\\'
@@ -253,10 +300,10 @@ if __name__ == '__main__':
     # '60 лет ВЛКСМ 12'
     # houses, error_read = main()
 
-    work_dir = str(Path.cwd()) + "\\data\\"
-    print(work_dir)
-    # address = {house.name: i for i, house in enumerate(houses)}
-    # get_locate(address.keys())
+    # work_dir = str(Path.cwd()) + "\\data\\"
+    # print(work_dir)
 
-    # a = uniq_homes()
-    # print(test_clean(0))
+    db, error_read = main()
+    address = {house.address: i for i, house in enumerate(db)}
+
+
