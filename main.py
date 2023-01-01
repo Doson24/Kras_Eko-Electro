@@ -30,25 +30,47 @@ class House:
     def __init__(self, path, name):
         self.path = path
         self.name = name
+        self.type_document = None
         #для отображения адреса надо брать из файла
-        self.address = self.search_address()
+        self.address = self.add_prefix_address()
 
         # locate = self.get_locate()
         # self.longitude = locate[0]
         # self.latitude = locate[1]
+        if self.type_document == 1:
+            if len(self.read_tables()) == 4:
+                self.entry1 = self.clear_data(self.read_tables()[0])
+                self.entry2 = self.clear_data(self.read_tables()[2])
 
-        if len(self.read_tables()) == 4:
-            self.entry1 = self.clear_data(self.read_tables()[0])
-            self.entry2 = self.clear_data(self.read_tables()[2])
+            if len(self.read_tables()) == 2:
+                self.entry1 = self.clear_data(self.read_tables()[0])
+                self.entry2 = self.clear_data(self.read_tables()[1])
 
-        if len(self.read_tables()) == 2:
-            self.entry1 = self.clear_data(self.read_tables()[0])
-            self.entry2 = self.clear_data(self.read_tables()[1])
+            if len(self.read_tables()) == 1:
+                self.entry1 = self.clear_data(self.read_tables()[0])
+                self.entry2 = pd.DataFrame(columns=['t1/°C', 'V1/м3', 'M1/т', 'P1/кг/см2',
+                                                    'Qо/Гкал', 'BНP/ч', 'BOC/ч', None])
+        if self.type_document == 2:
+            self.clear_data_type2(self.read_tables_type2())
 
-        if len(self.read_tables()) == 1:
-            self.entry1 = self.clear_data(self.read_tables()[0])
-            self.entry2 = pd.DataFrame(columns=['t1/°C', 'V1/м3', 'M1/т', 'P1/кг/см2',
-                                                'Qо/Гкал', 'BНP/ч', 'BOC/ч', None])
+
+    def read_tables_type2(self):
+        df = pd.read_excel(f'{self.path}/{self.name}', engine='xlrd', decimal=',')
+        return df
+
+    def clear_data_type2(self, df):
+        # 't1/°C', 't2/°C', 'dt/°C', 'V1/м3', 'M1/т', 'V2/м3', 'M2/т', 'Mг/т',
+        # 'P1/кг/см2', 'P2/кг/см2', 'Qо/Гкал', 'Qг/Гкал', 'BНP/ч', 'BOC/ч']
+        columns = ['Дата', 'За сутки/См, Гкал', 'M1', 'V1', 'M2', 'V2', 'dM', 't1', 't2', 'dt', 'P1', 'P2', 'Tраб']
+        self.entry1 = df.iloc[6:36]
+        self.entry2 = df.iloc[55:85]
+        drop_n = [2, 8, 9, 10, 11, 12, 16, 17, 18, 20, 22, 23, 25, 26, 27]
+        drop_columns1 = [self.entry1.columns[i] for i in drop_n]
+        drop_columns2 = [self.entry2.columns[i] for i in drop_n]
+        self.entry1.drop(columns=drop_columns1, inplace=True)
+        self.entry2.drop(columns=drop_columns2, inplace=True)
+        self.entry1.columns = columns
+        self.entry2.columns = columns
 
     def read_tables(self):
         # name = '98лесная4.xls'
@@ -59,20 +81,34 @@ class House:
         return list(df)
 
     def search_address(self):
+        try:
+            df = pd.read_table(f'{self.path}/{self.name}', encoding='cp1251', decimal=',')
+            # Для main_deploy()
+            # df = pd.read_table(f'{self.name}', encoding='cp1251', decimal=',')
+            address_row = df[df['Unnamed: 0'].str.startswith('   Адрес').fillna(False)]
+            address = address_row.iloc[0][0].strip()[6:]
+            type = address.find('Тип')
+            address_clear = address[:type].strip()
+
+            self.type_document = 1
+        except UnicodeDecodeError:
+            df_xls = pd.read_excel(f'{self.path}/{self.name}', engine='xlrd', decimal=',')
+            #Чтение xls файлов если не получился прошлый метод
+            address = df_xls.iloc[0][0].strip()[7:]
+            slice = address.find('\n')
+            address_clear = address[:slice]
+
+            self.type_document = 2
+        return address_clear
+
+    def add_prefix_address(self):
         """
         - Поиск адреса в файле
         - добавление префикса к названию
 
         :return:
         """
-
-        df = pd.read_table(f'{self.path}/{self.name}', encoding='cp1251', decimal=',')
-        #Для main_deploy()
-        # df = pd.read_table(f'{self.name}', encoding='cp1251', decimal=',')
-        address_row = df[df['Unnamed: 0'].str.startswith('   Адрес').fillna(False)]
-        address = address_row.iloc[0][0].strip()[6:]
-        type = address.find('Тип')
-        address_clear = address[:type].strip()
+        address_clear = self.search_address()
 
         if ' в 1' in address_clear or ' в 2' in address_clear:
             address_clear = address_clear[:-4]
@@ -184,49 +220,6 @@ def save_succes_file(houses: list, file:str):
     with open(file, 'w') as f:
         for house in houses:
             f.write(house.path + house.name + '\n')
-
-
-def main():
-    months = ['Август']
-    work_dir = str(Path.cwd()) + "\\data\\"
-    start_dir = work_dir + 'Октябрь\\'
-
-    # start_dir = str(Path.cwd())
-    files_names = search_xls(start_dir)[:]
-    db = []
-    error_read = []
-    # Поиск каждого дома по месяцам
-    for file_name in files_names:
-        path = f"{start_dir}{file_name}"
-        try:
-
-            a1 = House(start_dir, file_name)
-            db.append(a1)
-            print(path)
-        except (ImportError, KeyError, UnicodeDecodeError):
-            print(f'{path} Ошибка открытия: Возможно файл пустой')
-            error_read.append(path)
-
-        for month in months:
-            dir_search = work_dir + month + '\\'
-            if file_name in search_xls(dir_search):
-                try:
-                    temp_house = House(dir_search, file_name)
-                    a1.add_entry(temp_house.entry1, temp_house.entry2)
-                    print(f'{dir_search + file_name}')
-                except (ImportError, KeyError, UnicodeDecodeError):
-                    pass
-                    print(f'{dir_search+file_name} Ошибка открытия: Возможно файл пустой')
-                    error_read.append(dir_search+file_name)
-
-        # print(a1.name)
-        # print(a1.entry1)
-
-    # Сохранение имен файлов которые удалось прочитать
-    save_succes_file(db, 'loaded_filenames.txt')
-    save_error_file(error_read, 'error_filenames.txt')
-
-    return db, error_read
 
 
 def save_error_file(error_read, file):
@@ -341,6 +334,50 @@ def test_clean(i):
     table.index = pd.to_datetime(table.index, format="%d/%m/%y")
 
     return table
+
+
+def main():
+    months = ['Август']
+    work_dir = str(Path.cwd()) + "\\data\\"
+    start_dir = work_dir + 'Октябрь\\'
+
+    # start_dir = str(Path.cwd())
+    files_names = search_xls(start_dir)[:]
+    db = []
+    error_read = []
+    exeptions = (ImportError, KeyError, UnicodeDecodeError, ValueError, IndexError, AttributeError)
+    # Поиск каждого дома по месяцам
+    for file_name in files_names:
+        path = f"{start_dir}{file_name}"
+        try:
+
+            a1 = House(start_dir, file_name)
+            db.append(a1)
+            print(path)
+        except exeptions:
+            print(f'{path} Ошибка открытия: Возможно файл пустой')
+            error_read.append(path)
+
+        for month in months:
+            dir_search = work_dir + month + '\\'
+            if file_name in search_xls(dir_search):
+                try:
+                    temp_house = House(dir_search, file_name)
+                    a1.add_entry(temp_house.entry1, temp_house.entry2)
+                    print(f'{dir_search + file_name}')
+                except exeptions:
+
+                    print(f'{dir_search+file_name} Ошибка открытия: Возможно файл пустой')
+                    error_read.append(dir_search+file_name)
+
+        # print(a1.name)
+        # print(a1.entry1)
+
+    # Сохранение имен файлов которые удалось прочитать
+    save_succes_file(db, 'loaded_filenames.txt')
+    save_error_file(error_read, 'error_filenames.txt')
+
+    return db, error_read
 
 
 if __name__ == '__main__':
