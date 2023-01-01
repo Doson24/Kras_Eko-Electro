@@ -9,7 +9,7 @@ from pathlib import Path
 @st.cache
 # @st.experimental_singleton
 def load_data():
-        db, error_read = main()
+        db, error_read = main_deploy()
         address = {house.address: i for i, house in enumerate(db)}
         return db, error_read, address
 

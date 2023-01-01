@@ -228,53 +228,6 @@ def save_error_file(error_read, file):
             f.write(house + '\n')
 
 
-def main_deploy():
-    """
-    Для удаленного сервера
-
-    :return:
-    """
-
-    # months = ['push_Сентябрь', 'push_Август']
-    # work_dir = str(Path.cwd()) + "\\data\\"
-    # start_dir = work_dir + 'push_Октябрь\\'
-
-    start_dir = str(Path.cwd())
-    files_names = search_xls(start_dir)[:10]
-    db = []
-    error_read = 0
-    # Поиск каждого дома по месяцам
-    for file_name in files_names:
-        path = f"{start_dir}/{file_name}"
-        try:
-            print(path)
-            a1 = House(start_dir, file_name)
-            db.append(a1)
-        except (ImportError, KeyError, UnicodeDecodeError):
-            print(f'{path} Ошибка открытия: Возможно файл пустой')
-            error_read += 1
-
-        # for month in months:
-        #     dir_search = work_dir + month
-        #     if file_name in search_xls(dir_search):
-        #         try:
-        #             temp_house = House(dir_search, file_name)
-        #             a1.add_entry(temp_house.entry1, temp_house.entry2)
-        #
-        #         except (ImportError, KeyError, UnicodeDecodeError):
-        #             pass
-        #             print(f'{dir_search+"/"+file_name} Ошибка открытия: Возможно файл пустой')
-        #             error_read += 1
-
-        # print(a1.name)
-        # print(a1.entry1)
-
-    # Сохранение имен файлов которые удалось прочитать
-    save_succes_file(db)
-
-    return db, error_read
-
-
 def uniq_homes():
     """
     Поиск уникальных имен файлов
@@ -334,6 +287,53 @@ def test_clean(i):
     table.index = pd.to_datetime(table.index, format="%d/%m/%y")
 
     return table
+
+
+def main_deploy():
+    """
+    Для удаленного сервера
+
+    :return:
+    """
+
+    # months = ['push_Сентябрь', 'push_Август']
+    # work_dir = str(Path.cwd()) + "\\data\\"
+    # start_dir = work_dir + 'push_Октябрь\\'
+
+    start_dir = str(Path.cwd())
+    files_names = search_xls(start_dir)[:10]
+    db = []
+    error_read = 0
+    # Поиск каждого дома по месяцам
+    for file_name in files_names:
+        path = f"{start_dir}/{file_name}"
+        try:
+            print(path)
+            a1 = House(start_dir, file_name)
+            db.append(a1)
+        except (ImportError, KeyError, UnicodeDecodeError):
+            print(f'{path} Ошибка открытия: Возможно файл пустой')
+            error_read += 1
+
+        # for month in months:
+        #     dir_search = work_dir + month
+        #     if file_name in search_xls(dir_search):
+        #         try:
+        #             temp_house = House(dir_search, file_name)
+        #             a1.add_entry(temp_house.entry1, temp_house.entry2)
+        #
+        #         except (ImportError, KeyError, UnicodeDecodeError):
+        #             pass
+        #             print(f'{dir_search+"/"+file_name} Ошибка открытия: Возможно файл пустой')
+        #             error_read += 1
+
+        # print(a1.name)
+        # print(a1.entry1)
+
+    # Сохранение имен файлов которые удалось прочитать
+    save_succes_file(db)
+
+    return db, error_read
 
 
 def main():
