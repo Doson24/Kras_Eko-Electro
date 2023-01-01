@@ -14,6 +14,12 @@ pd.options.mode.chained_assignment = None
 
 
 def search_xls(path: str) -> list:
+    """
+    Поиск всех .xls файлов в папке
+
+    :param path:
+    :return:
+    """
     list_dir = os.listdir(path)
     xls_list = [i for i in list_dir if '.xls' in i]
     return xls_list
@@ -25,7 +31,8 @@ class House:
         self.path = path
         self.name = name
         #для отображения адреса надо брать из файла
-        self.address = self.read_params()
+        self.address = self.search_address()
+
         # locate = self.get_locate()
         # self.longitude = locate[0]
         # self.latitude = locate[1]
@@ -51,7 +58,14 @@ class House:
         # df = pd.read_excel(name)
         return list(df)
 
-    def read_params(self):
+    def search_address(self):
+        """
+        - Поиск адреса в файле
+        - добавление префикса к названию
+
+        :return:
+        """
+
         df = pd.read_table(f'{self.path}/{self.name}', encoding='cp1251', decimal=',')
         #Для main_deploy()
         # df = pd.read_table(f'{self.name}', encoding='cp1251', decimal=',')
@@ -71,6 +85,8 @@ class House:
             address_clear = 'проезд ' + address_clear
         elif "проезд" in address_clear or 'пр,' in address_clear:
             return address_clear
+        elif '_____________' in address_clear:
+            return self.name
         else:
             address_clear = 'ул ' + address_clear
             # return address_clear
@@ -86,6 +102,12 @@ class House:
     """
 
     def clear_data(self, table: pd.DataFrame) -> pd.DataFrame:
+        """
+        Очистка данных, преобразование в float, тип данных для индекса - Datetime
+
+        :param table:
+        :return:
+        """
         columns = table.iloc[0] + '/' + table.iloc[1]
         table.columns = columns
 
@@ -140,7 +162,7 @@ class House:
         self.entry1 = self.entry1.sort_index()
         self.entry2 = self.entry2.sort_index()
 
-        print('[+] add')
+        # print('[+] add')
 
     def get_locate(self):
         # [i.split() for i in address]
@@ -152,31 +174,38 @@ class House:
         longitude = location["lon"]
         return float(latitude), float(longitude)
 
-def save_succeed_filename(houses: list):
-    with open('loaded_filenames.txt', 'w') as f:
+def save_succes_file(houses: list, file:str):
+    """
+    Сохранение имени файлов
+
+    :param houses: список домов
+    :return:
+    """
+    with open(file, 'w') as f:
         for house in houses:
-            f.write(house.name + '\n')
+            f.write(house.path + house.name + '\n')
 
 
 def main():
-    months = ['Сентябрь', 'Август']
+    months = ['Август']
     work_dir = str(Path.cwd()) + "\\data\\"
     start_dir = work_dir + 'Октябрь\\'
 
     # start_dir = str(Path.cwd())
     files_names = search_xls(start_dir)[:]
     db = []
-    error_read = 0
+    error_read = []
     # Поиск каждого дома по месяцам
     for file_name in files_names:
         path = f"{start_dir}{file_name}"
         try:
-            print(path)
+
             a1 = House(start_dir, file_name)
             db.append(a1)
+            print(path)
         except (ImportError, KeyError, UnicodeDecodeError):
             print(f'{path} Ошибка открытия: Возможно файл пустой')
-            error_read += 1
+            error_read.append(path)
 
         for month in months:
             dir_search = work_dir + month + '\\'
@@ -184,22 +213,35 @@ def main():
                 try:
                     temp_house = House(dir_search, file_name)
                     a1.add_entry(temp_house.entry1, temp_house.entry2)
-
+                    print(f'{dir_search + file_name}')
                 except (ImportError, KeyError, UnicodeDecodeError):
                     pass
                     print(f'{dir_search+file_name} Ошибка открытия: Возможно файл пустой')
-                    error_read += 1
+                    error_read.append(dir_search+file_name)
 
         # print(a1.name)
         # print(a1.entry1)
 
     # Сохранение имен файлов которые удалось прочитать
-    save_succeed_filename(db)
+    save_succes_file(db, 'loaded_filenames.txt')
+    save_error_file(error_read, 'error_filenames.txt')
 
     return db, error_read
 
 
+def save_error_file(error_read, file):
+    with open(file, 'w') as f:
+        for house in error_read:
+            f.write(house + '\n')
+
+
 def main_deploy():
+    """
+    Для удаленного сервера
+
+    :return:
+    """
+
     # months = ['push_Сентябрь', 'push_Август']
     # work_dir = str(Path.cwd()) + "\\data\\"
     # start_dir = work_dir + 'push_Октябрь\\'
@@ -235,12 +277,17 @@ def main_deploy():
         # print(a1.entry1)
 
     # Сохранение имен файлов которые удалось прочитать
-    save_succeed_filename(db)
+    save_succes_file(db)
 
     return db, error_read
 
 
 def uniq_homes():
+    """
+    Поиск уникальных имен файлов
+
+    :return:
+    """
     uniq = []
     months = ['Октябрь', 'Сентябрь', 'Август']
     for month in months:
