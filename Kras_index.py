@@ -45,7 +45,7 @@ table1 = slice_data(table1, start_date, end_date)
 st.title("💬 Красэко-электро")
 
 st.text('Средние')
-col1, col2, col3, col4, col5, col6 = st.columns(5)
+col1, col2, col3, col4, col5, col6 = st.columns(6)
 col1.metric("t1", f'{round(table1["t1/°C"].mean(), 2)}°C', "1.2 °C")
 col2.metric("t2", f'{round(table1["t2/°C"].mean(), 2)}°C', "1.3 °C")
 col3.metric("dt", f'{round(table1["dt/°C"].mean(), 2)}°C', "-1.3 °C")
