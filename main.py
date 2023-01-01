@@ -37,8 +37,9 @@ class House:
         # locate = self.get_locate()
         # self.longitude = locate[0]
         # self.latitude = locate[1]
+
         if self.type_document == 1:
-            if len(self.read_tables()) == 4:
+            if (len(self.read_tables()) == 4) or (len(self.read_tables()) == 3):
                 self.entry1 = self.clear_data(self.read_tables()[0])
                 self.entry2 = self.clear_data(self.read_tables()[2])
 
@@ -61,7 +62,7 @@ class House:
     def clear_data_type2(self, df):
         # 't1/°C', 't2/°C', 'dt/°C', 'V1/м3', 'M1/т', 'V2/м3', 'M2/т', 'Mг/т',
         # 'P1/кг/см2', 'P2/кг/см2', 'Qо/Гкал', 'Qг/Гкал', 'BНP/ч', 'BOC/ч']
-        columns = ['Дата', 'За сутки/См, Гкал', 'M1', 'V1', 'M2', 'V2', 'dM', 't1', 't2', 'dt', 'P1', 'P2', 'Tраб']
+        columns = ['Дата/Дата', 'За сутки/См, Гкал', 'M1/т', 'V1/м3', 'M2/т', 'V2/м3', 'dM', 't1/°C', 't2/°C', 'dt/°C', 'P1/кг/см2', 'P2/кг/см2', 'Tраб']
         self.entry1 = df.iloc[6:36]
         self.entry2 = df.iloc[55:85]
         drop_n = [2, 8, 9, 10, 11, 12, 16, 17, 18, 20, 22, 23, 25, 26, 27]
@@ -72,19 +73,24 @@ class House:
         self.entry1.columns = columns
         self.entry2.columns = columns
 
+        self.entry1.index = self.entry1['Дата/Дата']
+        self.entry1.drop(columns=['Дата/Дата'], inplace=True)
+        self.entry2.index = self.entry1['Дата/Дата']
+        self.entry2.drop(columns=['Дата/Дата'], inplace=True)
+
     def read_tables(self):
         # name = '98лесная4.xls'
-        # df = pd.read_html(f'{self.path}/{self.name}', encoding='cp1251', decimal=',')
+        df = pd.read_html(f'{self.path}/{self.name}', encoding='cp1251', decimal=',')
         # Для main_deploy()
-        df = pd.read_html(f'{self.name}', encoding='cp1251', decimal=',')
+        # df = pd.read_html(f'{self.name}', encoding='cp1251', decimal=',')
         # df = pd.read_excel(name)
         return list(df)
 
     def search_address(self):
         try:
-            # df = pd.read_table(f'{self.path}/{self.name}', encoding='cp1251', decimal=',')
+            df = pd.read_table(f'{self.path}/{self.name}', encoding='cp1251', decimal=',')
             # Для main_deploy()
-            df = pd.read_table(f'{self.name}', encoding='cp1251', decimal=',')
+            # df = pd.read_table(f'{self.name}', encoding='cp1251', decimal=',')
             address_row = df[df['Unnamed: 0'].str.startswith('   Адрес').fillna(False)]
             address = address_row.iloc[0][0].strip()[6:]
             type = address.find('Тип')
@@ -289,6 +295,20 @@ def test_clean(i):
     return table
 
 
+def save_summary(db: list):
+    """
+    Сохранение всех данных в одном файле .Xlsx
+
+    :param db:
+    :return:
+    """
+    for home in db:
+        home.entry1['Адресс'] = home.address
+    tables = [i.entry1 for i in db]
+    sum = pd.concat(tables)
+    sum.to_excel('Data.xlsx')
+
+
 def main_deploy():
     """
     Для удаленного сервера
@@ -376,6 +396,7 @@ def main():
     # Сохранение имен файлов которые удалось прочитать
     save_succes_file(db, 'loaded_filenames.txt')
     save_error_file(error_read, 'error_filenames.txt')
+    save_summary(db)
 
     return db, error_read
 
