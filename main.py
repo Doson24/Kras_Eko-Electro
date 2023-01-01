@@ -331,7 +331,7 @@ def main_deploy():
         # print(a1.entry1)
 
     # Сохранение имен файлов которые удалось прочитать
-    save_succes_file(db)
+    # save_succes_file(db)
 
     return db, error_read
 
