@@ -21,6 +21,8 @@ def slice_data(data, start, end):
 st.set_page_config(layout="wide", page_icon="📊", page_title="Красэко-электро",
         initial_sidebar_state="expanded")
 
+
+
 data, error_read, address = load_data()
 # data = pd.read_html(f'Восточная, 19.xls', encoding='cp1251', decimal=',')
 
@@ -44,6 +46,8 @@ table1 = slice_data(table1, start_date, end_date)
 
 
 st.title("💬 Красэко-электро")
+
+st.markdown("""Данные взяты с ресурса https://kraseco-elektro.ru/potrebitelyam/reports-odpu-all""")
 
 st.text('Средние')
 col1, col2, col3, col4, col5, col6 = st.columns(6)
