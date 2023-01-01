@@ -1,3 +1,4 @@
+import numpy as np
 import pandas as pd
 import streamlit as st
 # from utils import chart, db
@@ -51,8 +52,14 @@ col2.metric("t2", f'{round(table1["t2/°C"].mean(), 2)}°C', "1.3 °C")
 col3.metric("dt", f'{round(table1["dt/°C"].mean(), 2)}°C', "-1.3 °C")
 col4.metric("P1", f'{round(table1["P1/кг/см2"].mean(), 2)}кг/см2', "-1.3 °C")
 col5.metric("P2", f'{round(table1["P2/кг/см2"].mean(), 2)}кг/см2', "-1.3 °C")
-col6.metric("ИТОГО М1", f'{round(table1["М1/т"].sum(), 2)}кг/см2', "-1.3 °C")
 
+st.text('Итого')
+col1, col2, col3, col4, col5, col6 = st.columns(6)
+col1.metric("M1", f'{round(table1["M1/т"].sum(), 2)}т', "-1.3 °C")
+col2.metric("M2", f'{round(table1["M2/т"].sum(), 2)}т', "-1.3 °C")
+col3.metric("V1", f'{round(table1["V1/м3"].sum(), 2)}м3', "-1.3 °C")
+col4.metric("V2", f'{round(table1["V2/м3"].sum(), 2)}м3', "-1.3 °C")
+# col5.metric("P2", f'{round(table1["P2/кг/см2"].mean(), 2)}кг/см2', "-1.3 °C")
 
 columns = list(table1.columns)
 account_selections = st.sidebar.multiselect(
@@ -179,6 +186,11 @@ def show_map():
 
     map(data_map, 56.16933215, 93.45940342605422, 11)
 
+
+df = pd.DataFrame(np.random.randn(150, 2) / [50, 50] + [56.252922, 93.532264], columns=['lat', 'lon'])
+st.map(df, 10)
+
 if __name__ == '__main__':
     pass
+
     # show_map()
