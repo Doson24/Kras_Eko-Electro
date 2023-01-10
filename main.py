@@ -75,7 +75,7 @@ class House:
 
         self.entry1.index = self.entry1['Дата/Дата']
         self.entry1.drop(columns=['Дата/Дата'], inplace=True)
-        self.entry2.index = self.entry1['Дата/Дата']
+        self.entry2.index = self.entry2['Дата/Дата']
         self.entry2.drop(columns=['Дата/Дата'], inplace=True)
 
     def read_tables(self):
@@ -357,7 +357,7 @@ def main_deploy():
 
 
 def main():
-    months = ['Август']
+    months = ["Июль", "Июнь", 'Август', 'Сентябрь']
     work_dir = str(Path.cwd()) + "\\data\\"
     start_dir = work_dir + 'Октябрь\\'
 
