@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 # from utils import chart, db
-from main import main_deploy, main, search_xls
+from main import main_deploy, main, search_file
 import pydeck as pdk
 from pathlib import Path
 
@@ -10,7 +10,7 @@ from pathlib import Path
 @st.cache
 # @st.experimental_singleton
 def load_data():
-        db, error_read = main_deploy()
+        db, error_read = main()
         address = {house.address: i for i, house in enumerate(db)}
         return db, error_read, address
 
@@ -50,7 +50,7 @@ st.title("💬 Красэко-электро")
 st.markdown("""Данные взяты с ресурса https://kraseco-elektro.ru/potrebitelyam/reports-odpu-all""")
 
 st.text('Средние')
-col1, col2, col3, col4, col5, col6 = st.columns(6)
+col1, col2, col3, col4, col5 = st.columns(5)
 col1.metric("t1", f'{round(table1["t1/°C"].mean(), 2)}°C', "1.2 °C")
 col2.metric("t2", f'{round(table1["t2/°C"].mean(), 2)}°C', "1.3 °C")
 col3.metric("dt", f'{round(table1["dt/°C"].mean(), 2)}°C', "-1.3 °C")
@@ -58,7 +58,7 @@ col4.metric("P1", f'{round(table1["P1/кг/см2"].mean(), 2)}кг/см2', "-1.3
 col5.metric("P2", f'{round(table1["P2/кг/см2"].mean(), 2)}кг/см2', "-1.3 °C")
 
 st.text('Итого')
-col1, col2, col3, col4, col5, col6 = st.columns(6)
+col1, col2, col3, col4 = st.columns(4)
 col1.metric("M1", f'{round(table1["M1/т"].sum(), 2)}т', "-1.3 °C")
 col2.metric("M2", f'{round(table1["M2/т"].sum(), 2)}т', "-1.3 °C")
 col3.metric("V1", f'{round(table1["V1/м3"].sum(), 2)}м3', "-1.3 °C")
@@ -85,7 +85,7 @@ st.write('')
 st.markdown('### Диаграмма загруженных файлов')
 start_dir = str(Path.cwd())
 
-count_all_houses = len(search_xls(start_dir))
+count_all_houses = len(search_file(start_dir))
 count_bd_houses = len(data)
 st.bar_chart(pd.DataFrame({
     'name': ['Загружено домов', 'Ошибка чтения', 'Всего домов'],
