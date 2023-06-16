@@ -1,109 +1,162 @@
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\100 лесна€ 8.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\101 кировска€ 5.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\103 кировска€ 7.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\104 кировска€ 8.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\105 кировска€ 14.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\60 лет ¬Ћ —ћ 12.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\63 кировска€ 13.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\64 кировска€ 13.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\66 борова€ 9.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\68 борова€13.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\69 борова€ 13а.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\70 борова€ 15.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\71 борова€ 17.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\72 борова€ 17а.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\73 борова€ 19.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\74 борова€ 19а.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\75 борова€ 23.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\78 мира 3.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\80 мира 5.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\83 мира 10а.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\84 мира 11.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\86 мира 16.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\87 мира 15.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\88 мира 14.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\90 строительна€ 7.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\91 строительна€ 13.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\92 строительна€ 15.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\93 строительна€ 17.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\94 строительна€ 19.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\95 строительна€ 21.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\97 строительна€ 25.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\98 лесна€ 4.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\99 лесна€ 6.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\¬осточна€, 19.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\¬осточна€, 47.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\√ригорьева, 6  ‘Ћј√ћјЌ.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\≈рмака, 15.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\кировска€ 19-1.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\кировска€ 19-2.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\кировска€ 19-3.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\кировска€ 19-4.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\кировска€ 19-5.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ омсомольска€ 6.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ оролева, 11 ввод 1.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ оролева, 11 ввод 2.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ урчатова 64 в 2.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ урчатова 66.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\Ћенина, 21.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\Ћенина, 22.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\Ћенина, 45.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\Ћенина, 7  ј.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\Ћенинградский, 105  в 1.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\Ћенинградский, 31  в 2  ќ„ј√.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\Ћенинградский, 93  ЌЌƒ.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\лесна€ 2 в 1.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\лесна€ 2 в 2.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\новый путь гагарина 10.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\новый путь гагарина 12.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\новый путь гагарина 14.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\новый путь гагарина 16.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\новый путь гагарина 2.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\новый путь гагарина 4.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\новый путь гагарина 6.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\новый путь гагарина 8.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\новый путь майска€ 23.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ќкт€брьска€ 48.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ќќќ ‘лагманком - јндреева, 18.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ќќќ ‘лагманком - јндреева, 22.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ќќќ ‘лагманком -  омсомольска€, 31.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ќќќ ‘лагманком -  омсомольска€, 37.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ќќќ ‘лагманком -  омсомольска€, 39.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ќќќ ‘лагманком -  омсомольска€, 50.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ќќќ ‘лагманком -  урчатова, 58.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ќќќ ‘лагманком -  урчатова, 60.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ќќќ ‘лагманком - Ћенина, 49ј.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ќќќ ‘лагманком - Ћенина, 49Ѕ.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ќќќ ‘лагманком - Ћенинградский, 12 в 1.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ќќќ ‘лагманком - Ћенинградский, 19.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ќќќ ‘лагманком - Ћенинградский, 21.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ќќќ ‘лагманком - Ћенинградский, 29 в 2.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ќќќ ‘лагманком - Ћенинградский, 3.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ќќќ ‘лагманком - ћа€ковского, 23.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ќќќ ‘лагманком - ћа€ковского, 24.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ќќќ ‘лагманком - ћа€ковского, 25.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ќќќ ‘лагманком - ќкт€брьска€, 32.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ќќќ ‘лагманком - —вердлова, 43.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ќќќ ‘лагманком - —вердлова, 50ј.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ќќќ ‘лагманком - „апаева, 3.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ќќќ ‘лагманком - „апаева, 7.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ѕионерский 7.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ѕоселковый, 3.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\—вердлова, 13  ј.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\—оветска€, 32.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\“олстого 3а.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\”  —ветлый город - ¬осточна€, 51.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\”  —ветлый город -  ирова, 4.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\”  —ветлый город -  оролева, 15.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\”  —ветлый город - Ћенина, 12.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\”  —ветлый город - Ћенина, 17.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\”  —ветлый город - Ћенина, 28.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\”  —ветлый город - ћа€ковского, 32.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\”  —ветлый город - ѕушкина, 33.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\”  —ветлый город - —вердлова, 11.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\”ќ Ѕалтийска€ - ул. ¬осточна€, 23.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\÷ проезд, 3.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\„апаева, 18.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\Ўкольна€, 32.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\Ўкольна€, 53  ј.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь\ёбилейный, 4.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль100 лесна€ 8.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль101 кировска€ 5.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль103 кировска€ 7.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль104 кировска€ 8.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль105 кировска€ 14.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль62 кировска€ 13 - копи€.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль66 борова€ 9 - копи€.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль68 борова€ 13 - копи€.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль69 борова€ 13а - копи€.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль70 борова€ 15.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль71 борова€ 17 - копи€.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль72 борова€ 17а - копи€.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль73 борова€ 19 - копи€.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль74 борова€ 19а - копи€.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль75 борова€ 23 - копи€.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль76 мира 1 - копи€.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль78 мира 3.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль80 мира 5 - копи€.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль81 мира 8 - копи€.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль82 мира 10.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль83 мира 10а.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль84 мира 11 - копи€.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль86 мира 16 - копи€.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль87 мира 15 - копи€.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль88 мира 14 - копи€.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль90 строительна€ 7 - копи€.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль91 строительна€ 13 - копи€.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль92 строительна€ 15.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль93 строительна€ 17 - копи€.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль95 строительна€ 21.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль96 строительна€ 23.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль98 лесна€ 4.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль99 лесна€ 6.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльЅорова€ 11 ввод 1.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльборова€ 3 в 1.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльборова€ 3 в 3.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльборова€ 3а в 1.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльборова€ 3а в 3.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльборова€ 3а в 4.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльввод 1 июль 22, ¬осточна€, 1 ”  √ќ—∆»Ћ‘ќЌƒ.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльввод 1 июль 22, ¬осточна€, 5 ”  √ќ—∆»Ћ‘ќЌƒ.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльввод 1 июль 22г. Ћенина, 10 “—∆ ƒќ¬≈–»≈.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльввод 1 июль 22г. Ћенина, 6 “—∆ ƒќ¬≈–»≈.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльввод 1 июль 22г. ќкт€брьска€, 45 “—∆ ƒќ¬≈–»≈.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльввод 1 июль 22г. ѕушкина, 22, ”  √ќ—∆»Ћ‘ќЌƒ.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльввод 1 июль 22г. —оветска€, 3 “—∆ ƒќ¬≈–»≈.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльввод 1 июль 22г. Ўкольна€, 55 ”  √ќ—∆»Ћ‘ќЌƒ.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль¬осточна€, 19.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юлькировска€ 13а в 1.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юлькировска€ 13а в 2.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юлькировска€ 19-1.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юлькировска€ 19-2.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юлькировска€ 19-3.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юлькировска€ 19-4.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юлькировска€ 19-5.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юлькировска€ 9а в 1.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юлькировска€ 9а в 2.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль омсомольска€ 25 ввод1.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль омсомольска€ 48 ввод1.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльЋенина 21 ввод1.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльленина 44а ввод 1.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльЋенина 45.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльЋенина 47а ввод1.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльленина 48а ћ ƒ ввод 1.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльЋенина 49а ввод1.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльЋенинградский 16 ввод 1.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльЋенинградский 31 »“ѕ1 ввод 1.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльлесна€ 14.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльлесна€ 15.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльлесна€ 2 в 1.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльлесна€ 3.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльћира 6.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльновый путь гагарина 10.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльновый путь гагарина 12.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльновый путь гагарина 14.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльновый путь гагарина 16.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльновый путь гагарина 2.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльновый путь гагарина 4.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльновый путь гагарина 6.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльновый путь гагарина 8.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльновый путь майска€ 23.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльокт€брьска€ 3 ввод 1.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльокт€брьска€ 5 ввод 1.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльпаркова€ 12 ввод 1.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльѕоселковый, 3.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльѕушкина 33 ввод1.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль—а€нска€ 3 »“ѕ1 ввод 1.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юль—вердлова 50а ввод1.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльстроительна€ 12 в 1.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльстроительна€ 12 в 3.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юльстроительна€ 17а в 2.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юнь60 лет, 42 в 1.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юнь60 лет, 42 в 3.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юнь60 лет, 42 в 4.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юнь60 лет, 42 в 5.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юнь60 лет, 42 в 6.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юнь94 строительна€ 19.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юньввод 1 июнь 22 г..xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юнь ирова 4.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юнь оролева 10 ввод1.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юнь урчатова 32 ввод1.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юнь урчатова 66.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юнь–ешетнева, 1.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юнь—вердлова, 13 ј.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юнь—оветска€, 32.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юнь—оветска€, 5.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\»юньЎкольна€, 32.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь60 лет ¬Ћ —ћ 12.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь97 строительна€ 25.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь¬осточна€, 47.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь√ригорьева, 6  ‘Ћј√ћјЌ.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь≈рмака, 15.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь омсомольска€ 6.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь оролева, 11 ввод 1.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь урчатова 64 в 2.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьЋенина, 21.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьЋенина, 22.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьЋенина, 45.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьЋенина, 7  ј.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьЋенинградский, 105  в 1.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьЋенинградский, 31  в 2  ќ„ј√.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьЋенинградский, 93  ЌЌƒ.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьќкт€брьска€ 48.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьќќќ ‘лагманком - јндреева, 18.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьќќќ ‘лагманком - јндреева, 22.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьќќќ ‘лагманком -  омсомольска€, 31.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьќќќ ‘лагманком -  омсомольска€, 37.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьќќќ ‘лагманком -  омсомольска€, 39.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьќќќ ‘лагманком -  омсомольска€, 50.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьќќќ ‘лагманком -  урчатова, 58.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьќќќ ‘лагманком -  урчатова, 60.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьќќќ ‘лагманком - Ћенина, 49ј.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьќќќ ‘лагманком - Ћенина, 49Ѕ.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьќќќ ‘лагманком - Ћенинградский, 12 в 1.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьќќќ ‘лагманком - Ћенинградский, 19.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьќќќ ‘лагманком - Ћенинградский, 21.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьќќќ ‘лагманком - Ћенинградский, 29 в 2.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьќќќ ‘лагманком - Ћенинградский, 3.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьќќќ ‘лагманком - ћа€ковского, 23.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьќќќ ‘лагманком - ћа€ковского, 24.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьќќќ ‘лагманком - ћа€ковского, 25.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьќќќ ‘лагманком - ќкт€брьска€, 32.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьќќќ ‘лагманком - —вердлова, 43.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьќќќ ‘лагманком - —вердлова, 50ј.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьќќќ ‘лагманком - „апаева, 3.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьќќќ ‘лагманком - „апаева, 7.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьѕионерский 7.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь“олстого 3а.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь”  —ветлый город - ¬осточна€, 51.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь”  —ветлый город -  ирова, 4.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь”  —ветлый город -  оролева, 15.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь”  —ветлый город - Ћенина, 12.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь”  —ветлый город - Ћенина, 17.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь”  —ветлый город - Ћенина, 28.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь”  —ветлый город - ћа€ковского, 32.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь”  —ветлый город - ѕушкина, 33.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь”  —ветлый город - —вердлова, 11.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь”ќ Ѕалтийска€ - ул. ¬осточна€, 23.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь÷ проезд, 3.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брь„апаева, 18.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьЎкольна€, 53  ј.xls
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\ќкт€брьёбилейный, 4.xls

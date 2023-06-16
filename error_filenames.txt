@@ -1,293 +1,753 @@
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\62 кировская 13.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\76 мира 1.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\боровая 3 в 1.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\боровая 3 в 1.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\боровая 3 в 2.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\боровая 3 в 2.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\боровая 3 в 3.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\боровая 3 в 3.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\боровая 3а в 1.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\боровая 3а в 1.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\боровая 3а в 2.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\боровая 3а в 2.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\боровая 3а в 3.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\боровая 3а в 3.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\боровая 3а в 4.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\боровая 3а в 4.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\Восточная 57  ХВС (ВКТ-9.1.1 №00000801). Отчетные данные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\Восточная 57  ХВС (ВКТ-9.1.1 №00000801). Отчетные данные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\Восточная 57 ТЭ   (ВКТ-9.1.1 №00000801). Отчетные данные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\кировская 13а в 1.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\кировская 13а в 1.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\кировская 13а в 2.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\кировская 13а в 2.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\кировская 9а в 1.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\кировская 9а в 1.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\кировская 9а в 2.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\кировская 9а в 2.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\кировская 9а в 3.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\кировская 9а в 3.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\Курчатова, 26   ХВС (ВКТ-9.1.1 №00002290). Отчетные данные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\Курчатова, 26 ТЭ  (ВКТ-9.1.1 №00002290). Отчетные данные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\Ленинградский 1  ХВС (ВКТ-9.2.1 №00002009). Отчетные данные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\Ленинградский 1 ТЭ,ХВС (ВКТ-9.2.1 №00002009). Отчетные данные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\Ленинградский 1 ХВС 2 (ВКТ-9.1.1 №00000496). Отчетные данные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\Ленинградский 59 ХВС 1 (номер 1) (ВКТ-9.1.1 №00000001). Отчетные данные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\лесная 14.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\лесная 14.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\лесная 15.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\лесная 15.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\лесная 3.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\лесная 3.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\Мира 7 Мирное 10_2022.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УК _Михайлов и К_ Боровая 1. 1,2п (ВКТ-9.2.1 №00002456). Отчетные данные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\ООО УК _Михайлов и К_ Боровая 1. 1,2п (ВКТ-9.2.1 №00002456). Отчетные данные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УК _Михайлов и К_ Боровая 1. 3,4п (ВКТ-9.2.1 №00002144). Отчетные данные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\ООО УК _Михайлов и К_ Боровая 1. 3,4п (ВКТ-9.2.1 №00002144). Отчетные данные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УК _Михайлов и К_ Боровая 1. 5,6п (ВКТ-9.2.1 №00002309). Отчетные данные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\ООО УК _Михайлов и К_ Боровая 1. 5,6п (ВКТ-9.2.1 №00002309). Отчетные данные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УК _Михайлов и К_ Боровая 1. 7,8п (ВКТ-9.2.1 №00002463). Отчетные данные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\ООО УК _Михайлов и К_ Боровая 1. 7,8п (ВКТ-9.2.1 №00002463). Отчетные данные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УК _Михайлов и К_ Кировская 15 (ВКТ-9.2.1 №00002304). Отчетные данные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\ООО УК _Михайлов и К_ Кировская 15 (ВКТ-9.2.1 №00002304). Отчетные данные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УК _Михайлов и К_ Строительная 14 ввод №1 (ВКТ-9.2.1 №00003201). Отчетные данные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\ООО УК _Михайлов и К_ Строительная 14 ввод №1 (ВКТ-9.2.1 №00003201). Отчетные данные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УК _Михайлов и К_ Строительная 14 ввод №2 (ВКТ-9.2.1 №00003106). Отчетные данные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\ООО УК _Михайлов и К_ Строительная 14 ввод №2 (ВКТ-9.2.1 №00003106). Отчетные данные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УК _Михайлов и К_ Строительная 14 ввод №3 (ВКТ-9.2.1 №00003126). Отчетные данные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\ООО УК _Михайлов и К_ Строительная 14 ввод №3 (ВКТ-9.2.1 №00003126). Отчетные данные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - пр. Поселковый, 5 пр. Поселковый, 5 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Белорусская, 34 ул. Белорусская, 34 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Белорусская, 36 ввод 1 ул. Белорусская, 36 ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Белорусская, 36 ввод 2 ул. Белорусская, 36 ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Белорусская, 38 ул. Белорусская, 38 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Белорусская, 45 ул. Белорусская, 45 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Белорусская, 47 ул. Белорусская, 47 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Белорусская, 49 А ввод 1 ул. Белорусская, 49 А ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Белорусская, 49 А ввод 2 ул. Белорусская, 49 А ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Белорусская, 49 А ввод 3 ул. Белорусская, 49 А ввод 3 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Белорусская, 49 Б ул. Белорусская, 49 Б с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Белорусская, 49 ул. Белорусская, 49 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Белорусская, 51 ул. Белорусская, 51 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Калинина, 13 ул. Калинина, 13 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Малая Садовая, 10 ввод 1 ул. Малая Садовая, 10 ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Малая Садовая, 10 ввод 2 ул. Малая Садовая, 10 ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Малая Садовая, 10 ввод 3 ул. Малая Садовая, 10 ввод 3 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Малая Садовая, 2 ул. Малая Садовая, 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Малая Садовая, 4 ввод 1 ул. Малая Садовая, 4 ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Малая Садовая, 4 ввод 2 ул. Малая Садовая, 4 ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Малая Садовая, 6 ввод 1 ул. Малая Садовая, 6 ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Малая Садовая, 6 ввод 2 ул. Малая Садовая, 6 ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Малая Садовая, 6 ввод 3 ул. Малая Садовая, 6 ввод 3 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Малая Садовая, 8 ввод 1 ул. Малая Садовая, 8 ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Малая Садовая, 8 ввод 2 ул. Малая Садовая, 8 ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Поселковая, 26 ввод 1 ул. Поселковая, 26 ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Поселковая, 26 ввод 2 ул. Поселковая, 26 ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Поселковая, 28 ввод 1 ул. Поселковая, 28 ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Поселковая, 28 ввод 2 ул. Поселковая, 28 ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Поселковая, 30 ввод 1 ул. Поселковая, 30 ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Поселковая, 30 ввод 2 ул. Поселковая, 30 ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Поселковая, 45 ул. Поселковая, 45 с 23.09.2022 по 10.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Поселковая, 47 ул. Поселковая, 47 с 23.09.2022 по 10.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Поселковая, 49 ввод 1 ул. Поселковая, 49 ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Поселковая, 49 ввод 2 ул. Поселковая, 49 ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Поселковая, 49 ввод 3 ул. Поселковая, 49 ввод 3 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Поселковая, 49 ввод 4 ул. Поселковая, 49 ввод 4 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Толстого, 1 ввод 1 ул. Толстого, 1 ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Толстого, 1 ввод 2 ул. Толстого, 1 ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Толстого, 12 ул. Толстого, 12 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Толстого, 21 А ввод 1 ул. Толстого, 21 А ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Толстого, 21 А ввод 2 ул. Толстого, 21 А ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Толстого, 21 А ввод 3 ул. Толстого, 21 А ввод 3 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Толстого, 21 ввод 1 ул. Толстого, 21 ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Толстого, 21 ввод 2 ул. Толстого, 21 ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Толстого, 23 ул. Толстого, 23 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Толстого, 25 ввод 1 ул. Толстого, 25 ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Толстого, 25 ввод 2 ул. Толстого, 25 ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Толстого, 3 ввод 1 ул. Толстого, 3 ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Толстого, 3 ввод 2 ул. Толстого, 3 ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Толстого, 5 ввод 1 ул. Толстого, 5 ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Толстого, 5 ввод 2 ул. Толстого, 5 ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Толстого, 7 ввод 1 ул. Толстого, 7 ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Толстого, 7 ввод 2 ул. Толстого, 7 ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Толстого, 7 ввод 3 ул. Толстого, 7 ввод 3 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ООО УО Первомайский ЖЭК-7 - ул. Узкоколейная, 27 ул. Узкоколейная, 27 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\Саянская 1 тепло (ВКТ-9.2.1 №00000408). Отчетные данные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\Саянская 1 тепло (ВКТ-9.2.1 №00000408). Отчетные данные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\Саянская 1 тепло сх 1.2 (ВКТ-9.2.1 №00000408). Отчетные данные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\Саянская 1 ХВС (ВКТ-9.1.1 №00000227). Отчетные данные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\Саянская 1 ХВС (ВКТ-9.1.1 №00000227). Отчетные данные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\строительная 12 в 1.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\строительная 12 в 1.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\строительная 12 в 2.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\строительная 12 в 2.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\строительная 12 в 3.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\строительная 12 в 3.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\строительная 17а в 1.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\строительная 17а в 1.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\строительная 17а в 2.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\строительная 17а в 2.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ТСЖ Надежда - ул. 60 лет ВЛКСМ, 38 ул. 60 лет ВЛКСМ, 38 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ТСН Мира, 25 - пр. Мира, 25 ввод 1 пр. Мира, 25 ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ТСН Мира, 25 - пр. Мира, 25 ввод 2 пр. Мира, 25 ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ТСН Очаг - ул. 60 лет ВЛКСМ, 40 ул. 60 лет ВЛКСМ, 40 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ТЭК КАРАТ 18052015 Курчатова 38 ОЧАГ.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ТЭК КАРАТ 18052015 Свердлова 19 СВЕТЛЫЙ.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ТЭК КАРАТ 18052015 Свердлова 25 СВЕТЛЫЙ.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ТЭК КАРАТ 18052015 Свердлова 51 ФЛАГМАН.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ТЭК КАРАТ 18052015 Свердлова 52 ВОСТКОМ.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Востком - ул. Луговая, 5 ул. Луговая, 5 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Востком - ул. Маяковского,12 ул. Маяковского,12 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Востком - ул. Новоселов, 2 ул. Новоселов, 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Мирное - пр.  Юбилейный, 7 пр. Юбилейный, 7 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Мирное - пр. Ленинградский, 49 ввод 1 пр. Ленинградский, 49 ввод 1 с 13.10.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Мирное - пр. Ленинградский, 49 ввод 2 пр. Ленинградский, 49 ввод 2 с 13.10.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Мирное - пр. Ленинградский, 49 ввод 3 пр. Ленинградский, 49 ввод 3 с 13.10.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Мирное - ул. 60 лет ВЛКСМ, 52 ввод 1 ул. 60 лет ВЛКСМ, 52 ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Мирное - ул. 60 лет ВЛКСМ, 52 ввод 2 ул. 60 лет ВЛКСМ, 52 ввод 2 с 20.10.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Мирное - ул. 60 лет ВЛКСМ, 52 ввод 2 ул. 60 лет ВЛКСМ, 52 ввод 2 с 23.09.2022 по 14.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Мирное - ул. 60 лет ВЛКСМ, 52 ввод 3 ул. 60 лет ВЛКСМ, 52 ввод 3 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Мирное - ул. 60 лет ВЛКСМ, 82 ул. 60 лет ВЛКСМ, 82 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Мирное - ул. Свердлова, 16 ул. Свердлова, 16 с 28.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Мирное - ул. Советская, 8 ул. Советская, 8 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Мирное - ул. Школьная, 35 ул. Школьная, 35 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Мирное - ул.Ленина, 7 ул.Ленина, 7 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Мирное - ул.Октябрьская, 36 ул.Октябрьская, 36 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Мирт - пр. Ленинградский, 103 пр. Ленинградский, 103 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Мирт - пр. Ленинградский, 105 ввод 2 пр. Ленинградский, 105 ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Мирт - пр. Ленинградский, 109 пр. Ленинградский, 109 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Мирт - пр. Ленинградский, 111 пр. Ленинградский, 111 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Мирт - пр. Ленинградский, 7 УК Мирт - пр. Ленинградский, 7 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Мирт - пр. Ленинградский, 73 ввод 1 пр. Ленинградский, 73 ввод 1 с 23.09.2022 по 09.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Мирт - пр. Ленинградский, 73 ввод 2 пр. Ленинградский, 73 ввод 2 с 23.09.2022 по 09.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Мирт - пр. Ленинградский, 75 ввод 1 пр. Ленинградский, 75 ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Мирт - пр. Ленинградский, 75 ввод 2 пр. Ленинградский, 75 ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Мирт - пр. Ленинградский, 91 пр. Ленинградский, 91 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Мирт - пр. Ленинградский, 95 пр. Ленинградский, 95 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Мирт - пр. Ленинградский, 97 пр. Ленинградский, 97 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Мирт - пр. Ленинградский, 99 ввод 1 пр. Ленинградский, 99 ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Мирт - пр. Ленинградский, 99 ввод 2 пр. Ленинградский, 99 ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Мирт - пр. Мира, 21 пр. Мира, 21 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Наш надежный дом - пр-д. Мира, 17 ввод 1 пр-д. Мира, 17 ввод 1 с 28.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Наш надежный дом - пр-д. Мира, 17 ввод2 пр-д. Мира, 17 ввод2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Наш надежный дом - пр-д. Мира, 19 пр. Мира, 19 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Наш надежный дом - пр-д. Мира, 23 ввод 1 пр-д. Мира, 23 ввод 1 с 27.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Наш надежный дом - пр-д. Мира, 23 ввод 2 пр-д. Мира, 23 ввод 2 с 27.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Наш надежный дом - пр-д. Мира, 23 ввод ХВС пр-д. Мира, 23 ввод ХВС с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Наш надежный дом - ул. 60 лет ВЛКСМ, 80 ул. 60 лет ВЛКСМ, 80 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Наш надежный дом - ул. Советской Армии, 11 ул. Советской Армии, 11 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Наш надежный дом - ул. Советской Армии, 7 ул.Советской Армии, 7 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Наш надежный дом - ул. Советской Армии, 9 ул. Советской Армии, 9 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - пр. Курчатова, 2 пр. Курчатова, 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - пр. Курчатова, 46 пр. Курчатова, 46 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - пр. Курчатова, 62 пр. Курчатова, 62 с 23.09.2022 по 12.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - пр. Курчатова, 64 ввод 1 пр. Курчатова, 64 ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - пр. Курчатова, 64 ввод 3 пр. Курчатова, 64 ввод 3 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - пр. Курчатова, 68 ввод 1 пр. Курчатова, 68 ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - пр. Курчатова, 68 ввод 2 пр. Курчатова, 68 ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - пр. Курчатова, 68 ввод 3 пр. Курчатова, 68 ввод 3 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - пр. Курчатова, 70 пр. Курчатова, 70 с 27.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - пр. Ленинградский, 23 пр. Ленинградский, 23 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - пр. Ленинградский, 31 ввод 1 пр. Ленинградский, 31 ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - пр. Ленинградский, 67 ввод 1 пр. Ленинградский, 67 ввод 1 с 27.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - пр. Ленинградский, 67 ввод 2 пр. Ленинградский, 67 ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - пр. Мира, 9 пр. Мира, 9 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - пр. Пионерский, 3 пр. Пионерский, 3 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - пр. Юбилейный, 11 пр. Юбилейный, 11 с 23.09.2022 по 12.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - пр. Юбилейный, 8 пр. Юбилейный, 8 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - ул. 60 лет ВЛКСМ, 34 ул. 60 лет ВЛКСМ, 34 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - ул. 60 лет ВЛКСМ, 62  ул. 60 лет ВЛКСМ, 62  с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - ул. 60 лет ВЛКСМ, 66 ул. 60 лет ВЛКСМ, 66 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - ул. 60 лет ВЛКСМ, 68 ул. 60 лет ВЛКСМ, 68 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - ул. 60 лет ВЛКСМ, 8 ввод 1 ул. 60 лет ВЛКСМ, 8 ввод 1 с 23.09.2022 по 05.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - ул. 60 лет ВЛКСМ, 8 ввод 10 ул. 60 лет ВЛКСМ, 8 ввод 10 с 23.09.2022 по 05.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - ул. 60 лет ВЛКСМ, 8 ввод 2 ул. 60 лет ВЛКСМ, 8 ввод 2 с 23.09.2022 по 05.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - ул. 60 лет ВЛКСМ, 8 ввод 3 ул. 60 лет ВЛКСМ, 8 ввод 3 с 23.09.2022 по 05.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - ул. 60 лет ВЛКСМ, 8 ввод 4 ул. 60 лет ВЛКСМ, 8 ввод 4 с 23.09.2022 по 05.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - ул. 60 лет ВЛКСМ, 8 ввод 5 ул. 60 лет ВЛКСМ, 8 ввод 5 с 23.09.2022 по 05.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - ул. 60 лет ВЛКСМ, 8 ввод 6 ул. 60 лет ВЛКСМ, 8 ввод 6 с 23.09.2022 по 05.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - ул. 60 лет ВЛКСМ, 8 ввод 7 ул. 60 лет ВЛКСМ, 8 ввод 7 с 23.09.2022 по 05.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - ул. 60 лет ВЛКСМ, 8 ввод 8 ул. 60 лет ВЛКСМ, 8 ввод 8 с 23.09.2022 по 05.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - ул. 60 лет ВЛКСМ, 8 ввод 9 ул. 60 лет ВЛКСМ, 8 ввод 9 с 23.09.2022 по 05.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - ул. Королева, 17 ул. Королева, 17 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - ул. Королева, 5 ул. Королева, 5 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - ул. Ленина, 5 ул. Ленина, 5 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - ул. Пушкина, 25 ул. Пушкина, 25 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - ул. Пушкина, 26 ул. Пушкина, 26 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - ул. Решетнева, 1 ул. Решетнева, 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - ул. Саянская, 11 ул. Саянская, 11 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - ул. Саянская, 13 ул. Саянская, 13 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - ул. Саянская, 19 ул. Саянская, 19 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - ул. Саянская, 23 ул. Саянская, 23 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - ул. Свердлова, 12 ул. Свердлова, 12 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - ул. Советская, 4 ул. Советская, 4 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - ул. Советская, 5 ул. Советская, 5 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - ул. Школьная, 33 ул. Школьная, 33 с 21.10.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - ул. Школьная, 33 ул. Школьная, 33 с 23.09.2022 по 19.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - ул. Школьная, 66 ул. Школьная, 66 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - Центральный пр., 4 ввод 1 Центральный пр., 4 ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Очаг - Центральный пр., 4 ввод 2 Центральный пр., 4 ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - пр. Курчатова, 44 пр. Курчатова, 44 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - пр. Курчатова, 6 пр. Курчатова, 6 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - пр. Ленинградский, 41 ввод 1 пр. Ленинградский, 41 ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - пр. Ленинградский, 41 ввод 2 пр. Ленинградский, 41 ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - пр. Ленинградский, 43 ввод 1 пр. Ленинградский, 43 ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - пр. Ленинградский, 43 ввод 2 пр. Ленинградский, 43 ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - ул. 60 лет ВЛКСМ, 14 ул. 60 лет ВЛКСМ, 14 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - ул. 60 лет ВЛКСМ, 16 ул. 60 лет ВЛКСМ, 16 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - ул. 60 лет ВЛКСМ, 30 ул. 60 лет ВЛКСМ, 30 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - ул. 60 лет ВЛКСМ, 42 ввод 1 ул. 60 лет ВЛКСМ, 42 ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - ул. 60 лет ВЛКСМ, 42 ввод 2 ул. 60 лет ВЛКСМ, 42 ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - ул. 60 лет ВЛКСМ, 42 ввод 3 ул. 60 лет ВЛКСМ, 42 ввод 3 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - ул. 60 лет ВЛКСМ, 42 ввод 4 ул. 60 лет ВЛКСМ, 42 ввод 4 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - ул. 60 лет ВЛКСМ, 42 ввод 5 ул. 60 лет ВЛКСМ, 42 ввод 5 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - ул. 60 лет ВЛКСМ, 42 ввод 6 ул. 60 лет ВЛКСМ, 42 ввод 6 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - ул. 60 лет ВЛКСМ, 48 Б ул. 60 лет ВЛКСМ, 48 Б с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - ул. 60 лет ВЛКСМ, 84 ул. 60 лет ВЛКСМ, 84 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - ул. Восточная, 31 ул. Восточная, 31 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - ул. Кирова, 14 ул. Кирова, 14 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - ул. Комсомольская, 19 А ул. Комсомольская, 19 А с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - ул. Комсомольская, 44 ул. Комсомольская, 44 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - ул. Крупской, 3 ул. Крупской, 3 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - ул. Ленина, 27 ул. Ленина, 27 с 23.09.2022 по 10.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - ул. Ленина, 55 ул. Ленина, 55 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - ул. Ленина, 57 ул. Ленина, 57 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - ул. Маяковского, 19 А ул. Маяковского, 19 А с 23.09.2022 по 10.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - ул. Молодежная, 15 а ул. Молодежная, 15 а с 23.09.2022 по 22.10.2022, Суточные.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - ул. Октябрьская, 42 ул. Октябрьская, 42 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - ул. Свердлова, 15 ул. Свердлова, 15 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - ул. Свердлова, 17 ул. Свердлова, 17 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - ул. Свердлова, 18 ул. Свердлова, 18 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - ул. Свердлова, 48 А ул. Свердлова, 48 А с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - ул. Свердлова, 48 ул. Свердлова, 48 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - ул. Свердлова, 53 ул. Свердлова, 53 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК Светлый город - ул. Советская, 28 ул. Советская, 28 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК ФлагманКом - пр. Курчатова, 14 пр. Курчатова, 14 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК ФлагманКом - пр. Ленинградский, 12 ввод 2 пр. Ленинградский, 12 ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК ФлагманКом - пр. Ленинградский, 29 ввод 1 пр. Ленинградский, 29 ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК ФлагманКом - пр. Ленинградский, 45 пр. Ленинградский, 45 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК ФлагманКом - ул. Комсомольская, 23 ул. Комсомольская, 23 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК ФлагманКом - ул. Королева, 4 ул. Королева, 4 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК ФлагманКом - ул. Королева, 8 ввод 1 ул. Королева, 8 ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК ФлагманКом - ул. Королева, 8 ввод 2 ул. Королева, 8 ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УК ФлагманКом - ул.Свердлова, 56 ул.Свердлова, 56 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ул. Чапаева, 4.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Август\ул. Чапаева, 4.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УО Балтийская - пр. Ленинградский, 107 пр. Ленинградский, 107 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УО Балтийская - пр. Ленинградский, 18 ввод 1 пр. Ленинградский, 18 ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УО Балтийская - пр. Ленинградский, 18 ввод 2 пр. Ленинградский, 18 ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УО Балтийская - пр. Ленинградский, 18 ввод 3 пр. Ленинградский, 18 ввод 3 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УО Балтийская - пр. Ленинградский, 20 ввод 1 пр. Ленинградский, 20 ввод 1 с 28.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УО Балтийская - пр. Ленинградский, 20 ввод 2 пр. Ленинградский, 20 ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УО Балтийская - пр. Ленинградский, 22 пр. Ленинградский, 22 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УО Балтийская - пр. Ленинградский, 59 ТЭ пр. Ленинградский, 59 ТЭ с 27.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УО Балтийская - пр. Ленинградский, 59 ХВС 2 пр. Ленинградский, 59 ХВС 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УО Балтийская - пр. Ленинградский, 69 ввод 1 пр. Ленинградский, 69 ввод 1 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УО Балтийская - пр. Ленинградский, 69 ввод 2 пр. Ленинградский, 69 ввод 2 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УО Балтийская - ул. 60 лет ВЛКСМ, 26 ул. 60 лет ВЛКСМ, 26 с 23.09.2022 по 22.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\УО Балтийская - ул. 60 лет ВЛКСМ, 36 ул. 60 лет ВЛКСМ, 36 с 23.09.2022 по 07.10.2022, Суточные.xls
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ХВС октябрь  Комсомольская, 19 А  Светлый.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ХВС октябрь  Молодежная, 15 А  Светлый.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ХВС октябрь 2022  Ленинградский, 107  Балтийская.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ХВС октябрь 2022 Ленина 55   УК Светлый город.xlsx
-C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь\ХВСоктябрь 2022 Юбилейный, 7 УК Мирное.xlsx
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июль
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Июнь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Сентябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
+C:\Users\user\Desktop\Projects\Kras_Eko-Electro\data\Октябрь
